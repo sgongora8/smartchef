@@ -1,9 +1,8 @@
-// routes/users.js
 
 const express = require("express");
 const router = express.Router();
 
-// Import controller functions
+// import controller functions
 const {
   registerUser,
   loginUser,
@@ -12,19 +11,19 @@ const {
   getFavorites
 } = require("../controllers/userController");
 
-// POST /users/register → Register a new user
+// POST /users/register - register a new user
 router.post("/register", registerUser);
 
-// POST /users/login → Log in existing user
+// POST /users/login - log in existing user
 router.post("/login", loginUser);
 
-// GET /users/:id → Get user profile
+// GET /users/:id - get user profile
 router.get("/:id", getUserProfile);
 
-// POST /users/:id/favorites → Save a recipe to favorites
+// POST /users/:id/favorites - save a recipe to favorites
 router.post("/:id/favorites", addFavorite);
 
-// GET /users/:id/favorites → View saved favorite recipes
+// GET /users/:id/favorites - view saved favorite recipes
 router.get("/:id/favorites", getFavorites);
 
 module.exports = router;
