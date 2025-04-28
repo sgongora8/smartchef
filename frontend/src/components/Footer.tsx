@@ -1,3 +1,4 @@
+import { Link } from 'react-router-dom';
 import React from 'react';
 
 const Footer: React.FC = () => {
@@ -12,17 +13,18 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="font-semibold text-gray-800 mb-4">Quick Links</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="hover:text-amber-500 transition-colors">Home</a></li>
-              <li><a href="#" className="hover:text-amber-500 transition-colors">Recipes</a></li>
-              <li><a href="#" className="hover:text-amber-500 transition-colors">About</a></li>
+              <li><Link to="/" className="hover:text-amber-500 transition-colors">Home</Link></li>
+              <li><Link to="/recipes" className="hover:text-amber-500 transition-colors">Recipes</Link></li>
+              <li><Link to="/about" className="hover:text-amber-500 transition-colors">About</Link></li>
+              <li><Link to="/signin" className="hover:text-amber-500 transition-colors">Sign In</Link></li>
             </ul>
           </div>
           <div>
             <h3 className="font-semibold text-gray-800 mb-4">Resources</h3>
             <ul className="space-y-2 text-sm">
-              <li><a href="#" className="hover:text-amber-500 transition-colors">Blog</a></li>
-              <li><a href="#" className="hover:text-amber-500 transition-colors">Cooking Tips</a></li>
-              <li><a href="#" className="hover:text-amber-500 transition-colors">Ingredients Guide</a></li>
+              <li><Link to="/blog" className="hover:text-amber-500 transition-colors">Blog</Link></li>
+              <li><Link to="/cooking-tips" className="hover:text-amber-500 transition-colors">Cooking Tips</Link></li>
+              <li><Link to="/ingredients-guide" className="hover:text-amber-500 transition-colors">Ingredients Guide</Link></li>
             </ul>
           </div>
           <div>

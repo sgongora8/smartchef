@@ -8,6 +8,9 @@ import Footer from './components/Footer';
 import { Recipe, RecipeFormData } from './types';
 import { generateRecipe } from './utils/mockRecipeAPI';
 import SignIn from './components/SignIn';
+import Blog from './components/Blog';
+import CookingTips from './components/CookingTips';
+import IngredientsGuide from './components/IngredientsGuide';
 
 function App() {
   const [recipe, setRecipe] = useState<Recipe | null>(null);
@@ -48,7 +51,7 @@ function App() {
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
       <Header />
-      
+
       <main className="flex-1">
         <Routes>
           <Route path="/" element={
@@ -72,6 +75,9 @@ function App() {
             </>
           } />
           <Route path="/signin" element={<SignIn />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/cooking-tips" element={<CookingTips />} />
+          <Route path="/ingredients-guide" element={<IngredientsGuide />} />
         </Routes>
       </main>
 
