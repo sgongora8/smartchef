@@ -1,48 +1,13 @@
 import React from 'react';
 import { Recipe } from '../types';
-import { Clock, Users, ChefHat, BookmarkPlus, Check } from 'lucide-react';
-import { supabase } from '../lib/supabase';
-import toast from 'react-hot-toast';
+import { Clock, Users, ChefHat, BookmarkPlus } from 'lucide-react';
 
 interface RecipeDisplayProps {
   recipe: Recipe | null;
 }
 
 const RecipeDisplay: React.FC<RecipeDisplayProps> = ({ recipe }) => {
-  const [isSaved, setIsSaved] = React.useState(false);
-  const [isLoading, setIsLoading] = React.useState(false);
-
   if (!recipe) return null;
-
-  const handleSaveRecipe = async () => {
-    try {
-      setIsLoading(true);
-      const { data: { user } } = await supabase.auth.getUser();
-      
-      if (!user) {
-        toast.error('Please sign in to save recipes');
-        return;
-      }
-
-      const { error } = await supabase
-        .from('saved_recipes')
-        .insert([
-          {
-            user_id: user.id,
-            recipe_data: recipe
-          }
-        ]);
-
-      if (error) throw error;
-      
-      setIsSaved(true);
-      toast.success('Recipe saved successfully!');
-    } catch (error) {
-      toast.error('Failed to save recipe');
-    } finally {
-      setIsLoading(false);
-    }
-  };
 
   return (
     <div className="bg-white rounded-xl shadow-sm border border-gray-100 overflow-hidden">
@@ -64,17 +29,10 @@ const RecipeDisplay: React.FC<RecipeDisplayProps> = ({ recipe }) => {
         <div className="flex justify-between items-start">
           <h2 className="text-2xl font-bold text-gray-800 mb-2">{recipe.title}</h2>
           <button 
-            onClick={handleSaveRecipe}
-            disabled={isSaved || isLoading}
-            className={`
-              transition-colors
-              ${isSaved 
-                ? 'text-green-500 cursor-default' 
-                : 'text-amber-500 hover:text-amber-600'}
-            `}
+            className="text-amber-500 hover:text-amber-600 transition-colors"
             aria-label="Save recipe"
           >
-            {isSaved ? <Check size={24} /> : <BookmarkPlus size={24} />}
+            <BookmarkPlus size={24} />
           </button>
         </div>
         

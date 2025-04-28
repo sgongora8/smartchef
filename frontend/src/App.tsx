@@ -1,5 +1,4 @@
 import React, { useState } from 'react';
-import { Toaster } from 'react-hot-toast';
 import Header from './components/Header';
 import Hero from './components/Hero';
 import RecipeForm from './components/RecipeForm';
@@ -50,7 +49,6 @@ function App() {
 
   return (
     <div className="min-h-screen flex flex-col bg-gray-50">
-      <Toaster position="top-right" />
       <Header />
       
       <main className="flex-1">
