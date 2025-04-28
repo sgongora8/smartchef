@@ -1,4 +1,4 @@
-import React from 'react';
+import { Link } from 'react-router-dom';
 import { ChefHat } from 'lucide-react';
 
 const Header: React.FC = () => {
@@ -14,13 +14,10 @@ const Header: React.FC = () => {
         <nav>
           <ul className="flex gap-6 text-gray-600">
             <li className="hover:text-amber-500 transition-colors">
-              <a href="#" className="py-2">Home</a>
+              <Link to="/" className="py-2">Home</Link>
             </li>
             <li className="hover:text-amber-500 transition-colors">
-              <a href="#" className="py-2">Recipes</a>
-            </li>
-            <li className="hover:text-amber-500 transition-colors">
-              <a href="#" className="py-2">About</a>
+              <Link to="/signin" className="py-2">Sign In</Link>
             </li>
           </ul>
         </nav>
