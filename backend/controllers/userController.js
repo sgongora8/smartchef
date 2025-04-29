@@ -1,10 +1,10 @@
-// controllers/userController.js
+
 
 let users = [
   { id: 1, email: "test@example.com", password: "123456", favorites: [1, 2] }
 ];
 
-// Register a new user
+// register a new user
 const registerUser = (req, res) => {
   const { email, password } = req.body;
 
@@ -28,7 +28,7 @@ const registerUser = (req, res) => {
   res.status(201).json({ message: "User registered!", user: newUser });
 };
 
-// Log in a user
+// log in a user
 const loginUser = (req, res) => {
   const { email, password } = req.body;
   const user = users.find(u => u.email === email && u.password === password);
@@ -40,7 +40,7 @@ const loginUser = (req, res) => {
   res.status(200).json({ message: "Login successful!", user });
 };
 
-// Get user profile
+// get user profile
 const getUserProfile = (req, res) => {
   const userId = parseInt(req.params.id);
   const user = users.find(u => u.id === userId);
@@ -55,7 +55,7 @@ const getUserProfile = (req, res) => {
   });
 };
 
-// Add a recipe to user's favorites
+// add a recipe to user's favorites
 const addFavorite = (req, res) => {
   const userId = parseInt(req.params.id);
   const { recipeId } = req.body;
@@ -77,7 +77,7 @@ const addFavorite = (req, res) => {
   res.status(200).json({ message: "Recipe added to favorites!", favorites: user.favorites });
 };
 
-// Get user's favorite recipes (IDs only for now)
+// get user's favorite recipes 
 const getFavorites = (req, res) => {
   const userId = parseInt(req.params.id);
   const user = users.find(u => u.id === userId);
