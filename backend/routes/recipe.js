@@ -3,7 +3,7 @@
 const express = require("express");
 const router = express.Router();
 
-// Import controller functions
+// import controller functions
 const {
   getAllRecipes,
   addRecipe,
@@ -11,16 +11,16 @@ const {
   deleteRecipe
 } = require("../controllers/recipeController");
 
-// GET /recipes → get all recipes
+// GET /recipes - get all recipes
 router.get("/", getAllRecipes);
 
-// POST /recipes → add a new recipe
+// POST /recipes - add a new recipe
 router.post("/", addRecipe);
 
-// PUT /recipes/:id → update a recipe
+// PUT /recipes/:id - update a recipe
 router.put("/:id", updateRecipe);
 
-// DELETE /recipes/:id → delete a recipe
+// DELETE /recipes/:id - delete a recipe
 router.delete("/:id", deleteRecipe);
 
 module.exports = router;
