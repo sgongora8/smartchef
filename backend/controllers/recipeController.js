@@ -1,17 +1,17 @@
-// controllers/recipeController.js
 
-// Temporary in-memory data
+
+// temporary in-memory data
 let recipes = [
   { id: 1, title: "Omelette", ingredients: ["Eggs", "Cheese", "Onions"] },
   { id: 2, title: "French Toast", ingredients: ["Eggs", "Bread", "Milk"] }
 ];
 
-// @desc Get all recipes
+// @desc get all recipes
 const getAllRecipes = (req, res) => {
   res.json(recipes);
 };
 
-// @desc Add a new recipe
+// @desc add a new recipe
 const addRecipe = (req, res) => {
   const newRecipe = req.body;
 
@@ -25,7 +25,7 @@ const addRecipe = (req, res) => {
   res.status(201).json({ message: "Recipe added successfully!", data: newRecipe });
 };
 
-// @desc Update a recipe
+// @desc update a recipe
 const updateRecipe = (req, res) => {
   const recipeId = parseInt(req.params.id);
   const updatedData = req.body;
@@ -41,7 +41,7 @@ const updateRecipe = (req, res) => {
   res.json({ message: "Recipe updated", data: recipes[index] });
 };
 
-// @desc Delete a recipe
+// @desc delete a recipe
 const deleteRecipe = (req, res) => {
   const recipeId = parseInt(req.params.id);
   const index = recipes.findIndex(r => r.id === recipeId);
