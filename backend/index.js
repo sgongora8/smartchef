@@ -4,9 +4,9 @@ const app = express();
 const PORT = 3000;
 app.use(express.json());
 const recipeRoutes = require("./routes/recipes");
-const userRoutes = require("./routes/users"); // ✅ NEW
+const userRoutes = require("./routes/users"); 
 app.use("/recipes", recipeRoutes);
-app.use("/users", userRoutes); // ✅ NEW
+app.use("/users", userRoutes); 
 app.get("/", (req, res) => {
   res.send("Welcome to SmartChef! Ready to get cooking?");
 });
