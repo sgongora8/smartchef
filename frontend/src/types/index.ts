@@ -1,4 +1,4 @@
-// Define types for recipe data and form inputs
+//define types for recipe data and form inputs
 
 export type CookingLevel = 'easy' | 'intermediate' | 'hard';
 
@@ -20,17 +20,19 @@ export interface DietaryPreference {
 }
 
 export interface Recipe {
-  id: string;
-  title: string;
-  description: string;
-  cookTime: number;
-  servings: number;
-  level: CookingLevel;
-  ingredients: Ingredient[];
-  steps: RecipeStep[];
-  dietary: string[];
-  imageUrl?: string;
+  _id: string;
+  name: string;
+  description?: string;
+  cookingTime?: number;
+  cuisineType?: string;
+  dietaryInfo?: string[];
+  skillLevel?: string;
+  ingredients: string[];
+  imageUrl?: string; 
+  instructions?: string; 
 }
+
+
 
 export interface RecipeFormData {
   dietaryPreferences: DietaryPreference[];

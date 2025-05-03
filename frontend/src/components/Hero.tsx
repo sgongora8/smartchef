@@ -1,7 +1,11 @@
 import React from 'react';
 import { Utensils, AlarmClock, BookOpen } from 'lucide-react';
 
-const Hero: React.FC = () => {
+interface HeroProps {
+  onScrollToSearch: () => void;
+}
+
+const Hero: React.FC<HeroProps> = ({ onScrollToSearch }) => {
   return (
     <div className="bg-gradient-to-br from-amber-50 to-amber-100 py-16 md:py-24">
       <div className="container mx-auto px-4">
@@ -16,12 +20,12 @@ const Hero: React.FC = () => {
             Get personalized recipes tailored to your dietary needs and cooking skill level. Just tell us your preferences, and let our AI do the cooking!
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <a 
-              href="#recipe-form" 
+            <button 
+              onClick={onScrollToSearch}
               className="bg-amber-500 hover:bg-amber-600 text-white font-medium py-3 px-6 rounded-lg shadow-md hover:shadow-lg transition-all duration-200"
             >
               Find Recipes
-            </a>
+            </button>
             <a 
               href="#how-it-works" 
               className="bg-white hover:bg-gray-50 text-amber-500 font-medium py-3 px-6 rounded-lg shadow-md hover:shadow-lg transition-all duration-200"
@@ -30,7 +34,7 @@ const Hero: React.FC = () => {
             </a>
           </div>
         </div>
-        
+
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mt-16 max-w-4xl mx-auto">
           <div className="bg-white p-6 rounded-xl shadow-sm text-center">
             <div className="flex justify-center mb-4">
