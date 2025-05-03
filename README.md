@@ -15,13 +15,20 @@ This project focuses on backend development, ensuring a scalable, efficient, and
  **Secure Input Validation** – Prevents incorrect inputs and ensures **data consistency**.
 
 ##  Tech Stack
-### **Backend (Primary Focus)**
+### **Backend **
+ **Node.js** (Backend runtime)
+- **Express.js** (API framework)
+- **MongoDB
+- Google Authentication
+- Ollama AI
 
+### **Frontend **
+- CSS/HTML
+- react.js
 
-### **Frontend (Minimal UI)**
-
-
-### **Third-Party APIs (Optional Enhancements)**
+### **Third-Party APIs **
+- USDA API
+- Pixels API
 
 
 ---
