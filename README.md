@@ -1,9 +1,9 @@
-# 🍽️ SmartChef
+#  SmartChef
 
-## 📖 Overview
-SmartChef is a web-based application that allows users to enter a list of available ingredients and receive a list of matching recipes. The system is designed to provide **accurate, fast, and personalized** recipe recommendations while integrating **third-party APIs** for enhanced functionality. 
+##  Overview
+SmartChef is a web-based application that allows users to enter a list of available ingredients and receive matching recipes. The system is designed to provide **accurate, fast, and personalized** recipe recommendations while integrating **third-party APIs** for enhanced functionality. 
 
-This project focuses on **backend development**, ensuring a scalable, efficient, and well-documented API for recipe retrieval. The frontend will serve as a minimal interface to interact with the backend.
+This project focuses on backend development, ensuring a scalable, efficient, and well-documented API for recipe retrieval. The front end will serve as a minimal interface to interact with the backend.
 
 ##  Features
  **Ingredient-Based Recipe Search** – Users enter ingredients, and the system returns the best-matching recipes.  
