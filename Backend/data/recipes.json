@@ -1,0 +1,4240 @@
+[
+  {
+    "name": "Classic Chinese Stir-Fry",
+    "description": "A satisfying chinese dish perfect for any meal.",
+    "cookingTime": 38,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "potato",
+      "onion",
+      "garlic",
+      "salmon",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add potato and cook for 3-5 minutes until browned.\n4. Stir in garlic and salmon, add 1/2 cup water or broth, reduce heat and simmer for 19 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Indian Skewers",
+    "description": "A delicious indian dish perfect for any meal.",
+    "cookingTime": 81,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "ginger",
+      "olive oil",
+      "flour",
+      "potato",
+      "bell pepper",
+      "basil",
+      "beef",
+      "tofu"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in flour and potato, add 1/2 cup water or broth, reduce heat and simmer for 40 minutes.\n5. Season with salt, pepper, and tofu, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4427655/pexels-photo-4427655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy American Salad",
+    "description": "A zesty american dish perfect for any meal.",
+    "cookingTime": 22,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "kosher",
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "avocado",
+      "cinnamon",
+      "tomato",
+      "yogurt",
+      "salmon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add avocado and cook for 3-5 minutes until browned.\n4. Stir in tomato and yogurt, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and salmon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Mediterranean Skewers",
+    "description": "A hearty mediterranean dish perfect for any meal.",
+    "cookingTime": 83,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "lemon",
+      "salmon",
+      "rice",
+      "tofu",
+      "yogurt",
+      "basil"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add lemon and cook for 3-5 minutes until browned.\n4. Stir in rice and tofu, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and basil, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/16255193/pexels-photo-16255193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Japanese Pasta",
+    "description": "A hearty japanese dish perfect for any meal.",
+    "cookingTime": 55,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "flour",
+      "cinnamon",
+      "pasta",
+      "avocado",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add flour and cook for 3-5 minutes until browned.\n4. Stir in pasta and avocado, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty French Curry",
+    "description": "A hearty french dish perfect for any meal.",
+    "cookingTime": 17,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "ginger",
+      "beef",
+      "milk",
+      "parsley",
+      "cumin",
+      "chili powder",
+      "pasta",
+      "eggs"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in milk and parsley, add 1/2 cup water or broth, reduce heat and simmer for 8 minutes.\n5. Season with salt, pepper, and eggs, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6444313/pexels-photo-6444313.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Japanese Stir-Fry",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 41,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "gluten-free",
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "rice",
+      "basil",
+      "chili powder",
+      "corn",
+      "salmon",
+      "yogurt",
+      "garlic"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in chili powder and corn, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and garlic, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8963453/pexels-photo-8963453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Chinese Pasta",
+    "description": "A zesty chinese dish perfect for any meal.",
+    "cookingTime": 86,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cumin",
+      "soy sauce",
+      "olive oil",
+      "tomato",
+      "ginger",
+      "yogurt",
+      "parsley",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add soy sauce and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in olive oil and tomato, add 1/2 cup water or broth, reduce heat and simmer for 43 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Chinese Tacos",
+    "description": "A mouthwatering chinese dish perfect for any meal.",
+    "cookingTime": 68,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "chili powder",
+      "tofu",
+      "cilantro",
+      "coconut milk",
+      "eggs",
+      "beef"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add tofu and sauté for 2 minutes until fragrant.\n3. Add chili powder and cook for 3-5 minutes until browned.\n4. Stir in cilantro and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 34 minutes.\n5. Season with salt, pepper, and beef, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy American Rice Bowl",
+    "description": "A wholesome american dish perfect for any meal.",
+    "cookingTime": 10,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "dairy-free",
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cilantro",
+      "pasta",
+      "chicken breast",
+      "cinnamon",
+      "salmon",
+      "onion",
+      "cheese"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in chicken breast and cinnamon, add 1/2 cup water or broth, reduce heat and simmer for 5 minutes.\n5. Season with salt, pepper, and cheese, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6129294/pexels-photo-6129294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Japanese Rice Bowl",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 26,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "keto",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "milk",
+      "cinnamon",
+      "eggs",
+      "cilantro",
+      "spinach",
+      "bell pepper",
+      "parsley",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in eggs and cilantro, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5203687/pexels-photo-5203687.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Japanese Wrap",
+    "description": "A flavorful japanese dish perfect for any meal.",
+    "cookingTime": 41,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "coconut milk",
+      "rice",
+      "olive oil",
+      "beef",
+      "chicken breast"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add rice and sauté for 2 minutes until fragrant.\n3. Add coconut milk and cook for 3-5 minutes until browned.\n4. Stir in olive oil and beef, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and chicken breast, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/30261972/pexels-photo-30261972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Indian Soup",
+    "description": "A hearty indian dish perfect for any meal.",
+    "cookingTime": 19,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "milk",
+      "cinnamon",
+      "basil",
+      "black beans",
+      "pasta",
+      "spinach",
+      "corn",
+      "chili powder"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in basil and black beans, add 1/2 cup water or broth, reduce heat and simmer for 9 minutes.\n5. Season with salt, pepper, and chili powder, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/18698259/pexels-photo-18698259.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Thai Salad",
+    "description": "A flavorful thai dish perfect for any meal.",
+    "cookingTime": 65,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "gluten-free",
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "tofu",
+      "chicken breast",
+      "spinach",
+      "bell pepper",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chicken breast and sauté for 2 minutes until fragrant.\n3. Add tofu and cook for 3-5 minutes until browned.\n4. Stir in spinach and bell pepper, add 1/2 cup water or broth, reduce heat and simmer for 32 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19856566/pexels-photo-19856566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Indian Rice Bowl",
+    "description": "A tasty indian dish perfect for any meal.",
+    "cookingTime": 27,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "keto",
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "beef",
+      "mushrooms",
+      "tofu",
+      "chicken breast",
+      "olive oil",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add beef and cook for 3-5 minutes until browned.\n4. Stir in tofu and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/18510422/pexels-photo-18510422.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Indian Tacos",
+    "description": "A tasty indian dish perfect for any meal.",
+    "cookingTime": 71,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "yogurt",
+      "olive oil",
+      "coconut milk",
+      "soy sauce",
+      "avocado",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 35 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19781594/pexels-photo-19781594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Thai Wrap",
+    "description": "A mouthwatering thai dish perfect for any meal.",
+    "cookingTime": 34,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "paleo",
+      "vegetarian"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "parsley",
+      "chicken breast",
+      "black beans",
+      "chili powder",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chicken breast and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in black beans and chili powder, add 1/2 cup water or broth, reduce heat and simmer for 17 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19856566/pexels-photo-19856566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Mexican Rice Bowl",
+    "description": "A flavorful mexican dish perfect for any meal.",
+    "cookingTime": 33,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "spinach",
+      "tomato",
+      "pasta",
+      "onion",
+      "salmon",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add tomato and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in pasta and onion, add 1/2 cup water or broth, reduce heat and simmer for 16 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/16988266/pexels-photo-16988266.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Greek Rice Bowl",
+    "description": "A hearty greek dish perfect for any meal.",
+    "cookingTime": 43,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "spinach",
+      "basil",
+      "cilantro",
+      "avocado",
+      "parsley",
+      "chili powder",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in cilantro and avocado, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/20350174/pexels-photo-20350174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Chinese Wrap",
+    "description": "A aromatic chinese dish perfect for any meal.",
+    "cookingTime": 82,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "chili powder",
+      "soy sauce",
+      "basil",
+      "broccoli",
+      "beef",
+      "mushrooms"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add soy sauce and sauté for 2 minutes until fragrant.\n3. Add chili powder and cook for 3-5 minutes until browned.\n4. Stir in basil and broccoli, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and mushrooms, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/9863619/pexels-photo-9863619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Indian Stir-Fry",
+    "description": "A mouthwatering indian dish perfect for any meal.",
+    "cookingTime": 66,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegetarian",
+      "kosher"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "tofu",
+      "basil",
+      "soy sauce",
+      "tomato",
+      "coconut milk",
+      "cheese",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add tofu and cook for 3-5 minutes until browned.\n4. Stir in soy sauce and tomato, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13513758/pexels-photo-13513758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Mexican Stir-Fry",
+    "description": "A aromatic mexican dish perfect for any meal.",
+    "cookingTime": 36,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "paleo",
+      "kosher"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "chili powder",
+      "corn",
+      "soy sauce",
+      "chicken breast",
+      "salmon",
+      "parsley",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add corn and sauté for 2 minutes until fragrant.\n3. Add chili powder and cook for 3-5 minutes until browned.\n4. Stir in soy sauce and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 18 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/27758895/pexels-photo-27758895.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic French Soup",
+    "description": "A hearty french dish perfect for any meal.",
+    "cookingTime": 26,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "keto",
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "coconut milk",
+      "olive oil",
+      "tomato",
+      "beef",
+      "butter",
+      "ginger",
+      "garlic",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add coconut milk and cook for 3-5 minutes until browned.\n4. Stir in tomato and beef, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/20078201/pexels-photo-20078201.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich American Rice Bowl",
+    "description": "A mouthwatering american dish perfect for any meal.",
+    "cookingTime": 65,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "onion",
+      "broccoli",
+      "milk",
+      "pasta",
+      "tofu",
+      "sugar",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add onion and cook for 3-5 minutes until browned.\n4. Stir in milk and pasta, add 1/2 cup water or broth, reduce heat and simmer for 32 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/437489/pexels-photo-437489.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Mediterranean Skewers",
+    "description": "A mouthwatering mediterranean dish perfect for any meal.",
+    "cookingTime": 40,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "sugar",
+      "bell pepper",
+      "carrot",
+      "pasta",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add bell pepper and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in carrot and pasta, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13983276/pexels-photo-13983276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Mexican Tacos",
+    "description": "A delicious mexican dish perfect for any meal.",
+    "cookingTime": 70,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cilantro",
+      "rice",
+      "cinnamon",
+      "garlic",
+      "eggs",
+      "corn",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add rice and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in cinnamon and garlic, add 1/2 cup water or broth, reduce heat and simmer for 35 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5836429/pexels-photo-5836429.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy French Stir-Fry",
+    "description": "A hearty french dish perfect for any meal.",
+    "cookingTime": 75,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "kosher",
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "sugar",
+      "soy sauce",
+      "onion",
+      "tofu",
+      "potato",
+      "coconut milk",
+      "cheese"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add soy sauce and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in onion and tofu, add 1/2 cup water or broth, reduce heat and simmer for 37 minutes.\n5. Season with salt, pepper, and cheese, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783398/pexels-photo-31783398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory American Skewers",
+    "description": "A wholesome american dish perfect for any meal.",
+    "cookingTime": 24,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "paleo",
+      "keto"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "olive oil",
+      "cumin",
+      "eggs",
+      "cheese",
+      "potato",
+      "onion",
+      "bell pepper",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cumin and sauté for 2 minutes until fragrant.\n3. Add olive oil and cook for 3-5 minutes until browned.\n4. Stir in eggs and cheese, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Greek Salad",
+    "description": "A irresistible greek dish perfect for any meal.",
+    "cookingTime": 74,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "gluten-free",
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "coconut milk",
+      "basil",
+      "eggs",
+      "carrot",
+      "yogurt",
+      "bell pepper",
+      "cheese"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add coconut milk and cook for 3-5 minutes until browned.\n4. Stir in eggs and carrot, add 1/2 cup water or broth, reduce heat and simmer for 37 minutes.\n5. Season with salt, pepper, and cheese, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13983276/pexels-photo-13983276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Mexican Skewers",
+    "description": "A irresistible mexican dish perfect for any meal.",
+    "cookingTime": 61,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "potato",
+      "parsley",
+      "avocado",
+      "mushrooms",
+      "chili powder",
+      "bell pepper"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add potato and cook for 3-5 minutes until browned.\n4. Stir in avocado and mushrooms, add 1/2 cup water or broth, reduce heat and simmer for 30 minutes.\n5. Season with salt, pepper, and bell pepper, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5737361/pexels-photo-5737361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Indian Wrap",
+    "description": "A mouthwatering indian dish perfect for any meal.",
+    "cookingTime": 20,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "kosher",
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "rice",
+      "eggs",
+      "butter",
+      "garlic",
+      "onion",
+      "tomato",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add eggs and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in butter and garlic, add 1/2 cup water or broth, reduce heat and simmer for 10 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/12737663/pexels-photo-12737663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Greek Wrap",
+    "description": "A zesty greek dish perfect for any meal.",
+    "cookingTime": 90,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "pasta",
+      "butter",
+      "olive oil",
+      "tofu",
+      "potato",
+      "tomato",
+      "salmon",
+      "spinach"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add butter and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in olive oil and tofu, add 1/2 cup water or broth, reduce heat and simmer for 45 minutes.\n5. Season with salt, pepper, and spinach, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1150447/pexels-photo-1150447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Mediterranean Soup",
+    "description": "A wholesome mediterranean dish perfect for any meal.",
+    "cookingTime": 41,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cumin",
+      "parsley",
+      "mushrooms",
+      "chili powder",
+      "potato",
+      "carrot",
+      "avocado",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in mushrooms and chili powder, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/12815870/pexels-photo-12815870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Japanese Wrap",
+    "description": "A tasty japanese dish perfect for any meal.",
+    "cookingTime": 43,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "pasta",
+      "ginger",
+      "mushrooms",
+      "beef",
+      "lemon",
+      "tomato",
+      "basil",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in mushrooms and beef, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8963453/pexels-photo-8963453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty American Salad",
+    "description": "A mouthwatering american dish perfect for any meal.",
+    "cookingTime": 29,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "milk",
+      "beef",
+      "carrot",
+      "cumin",
+      "bell pepper",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in carrot and cumin, add 1/2 cup water or broth, reduce heat and simmer for 14 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Japanese Soup",
+    "description": "A satisfying japanese dish perfect for any meal.",
+    "cookingTime": 63,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "black beans",
+      "olive oil",
+      "broccoli",
+      "cilantro",
+      "yogurt",
+      "potato",
+      "mushrooms",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add black beans and cook for 3-5 minutes until browned.\n4. Stir in broccoli and cilantro, add 1/2 cup water or broth, reduce heat and simmer for 31 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Thai Rice Bowl",
+    "description": "A aromatic thai dish perfect for any meal.",
+    "cookingTime": 38,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "paleo",
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "garlic",
+      "yogurt",
+      "bell pepper",
+      "spinach",
+      "flour",
+      "carrot",
+      "rice",
+      "beef"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add yogurt and sauté for 2 minutes until fragrant.\n3. Add garlic and cook for 3-5 minutes until browned.\n4. Stir in bell pepper and spinach, add 1/2 cup water or broth, reduce heat and simmer for 19 minutes.\n5. Season with salt, pepper, and beef, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797984/pexels-photo-15797984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Greek Soup",
+    "description": "A zesty greek dish perfect for any meal.",
+    "cookingTime": 85,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "basil",
+      "avocado",
+      "sugar",
+      "chicken breast",
+      "soy sauce",
+      "eggs",
+      "flour",
+      "tofu"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in sugar and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 42 minutes.\n5. Season with salt, pepper, and tofu, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6065179/pexels-photo-6065179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Japanese Stew",
+    "description": "A zesty japanese dish perfect for any meal.",
+    "cookingTime": 45,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal",
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "garlic",
+      "cinnamon",
+      "chicken breast",
+      "broccoli",
+      "rice",
+      "parsley",
+      "onion",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add garlic and cook for 3-5 minutes until browned.\n4. Stir in chicken breast and broccoli, add 1/2 cup water or broth, reduce heat and simmer for 22 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Italian Curry",
+    "description": "A satisfying italian dish perfect for any meal.",
+    "cookingTime": 12,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "tomato",
+      "milk",
+      "avocado",
+      "soy sauce",
+      "cheese",
+      "salmon",
+      "cilantro",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add milk and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in avocado and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 6 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19681747/pexels-photo-19681747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Chinese Stir-Fry",
+    "description": "A flavorful chinese dish perfect for any meal.",
+    "cookingTime": 84,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "spinach",
+      "eggs",
+      "beef",
+      "pasta",
+      "tofu",
+      "broccoli",
+      "yogurt",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add eggs and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in beef and pasta, add 1/2 cup water or broth, reduce heat and simmer for 42 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2347311/pexels-photo-2347311.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Greek Skewers",
+    "description": "A delicious greek dish perfect for any meal.",
+    "cookingTime": 54,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "kosher",
+      "vegetarian"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "olive oil",
+      "carrot",
+      "corn",
+      "tofu",
+      "potato",
+      "black beans",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add carrot and sauté for 2 minutes until fragrant.\n3. Add olive oil and cook for 3-5 minutes until browned.\n4. Stir in corn and tofu, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1150447/pexels-photo-1150447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Japanese Tacos",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 76,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "dairy-free",
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "parsley",
+      "pasta",
+      "salmon",
+      "ginger",
+      "mushrooms",
+      "tomato",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in salmon and ginger, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8963453/pexels-photo-8963453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Japanese Skewers",
+    "description": "A zesty japanese dish perfect for any meal.",
+    "cookingTime": 53,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "corn",
+      "milk",
+      "broccoli",
+      "soy sauce",
+      "bell pepper",
+      "basil"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add milk and sauté for 2 minutes until fragrant.\n3. Add corn and cook for 3-5 minutes until browned.\n4. Stir in broccoli and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 26 minutes.\n5. Season with salt, pepper, and basil, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1191426/pexels-photo-1191426.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Greek Rice Bowl",
+    "description": "A delicious greek dish perfect for any meal.",
+    "cookingTime": 76,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "corn",
+      "pasta",
+      "black beans",
+      "coconut milk",
+      "mushrooms",
+      "spinach",
+      "olive oil",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add corn and cook for 3-5 minutes until browned.\n4. Stir in black beans and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/20350174/pexels-photo-20350174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty French Tacos",
+    "description": "A satisfying french dish perfect for any meal.",
+    "cookingTime": 49,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "dairy-free",
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "potato",
+      "bell pepper",
+      "broccoli",
+      "avocado",
+      "ginger",
+      "butter",
+      "basil"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add bell pepper and sauté for 2 minutes until fragrant.\n3. Add potato and cook for 3-5 minutes until browned.\n4. Stir in broccoli and avocado, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and basil, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31856262/pexels-photo-31856262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Indian Curry",
+    "description": "A hearty indian dish perfect for any meal.",
+    "cookingTime": 25,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "ginger",
+      "cumin",
+      "lemon",
+      "tofu",
+      "eggs",
+      "butter",
+      "tomato",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cumin and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in lemon and tofu, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/9345658/pexels-photo-9345658.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Mexican Soup",
+    "description": "A wholesome mexican dish perfect for any meal.",
+    "cookingTime": 26,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "basil",
+      "corn",
+      "tofu",
+      "olive oil",
+      "lemon",
+      "pasta",
+      "black beans"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add corn and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in tofu and olive oil, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and black beans, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/20844828/pexels-photo-20844828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Japanese Pasta",
+    "description": "A delicious japanese dish perfect for any meal.",
+    "cookingTime": 42,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan",
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "corn",
+      "beef",
+      "chicken breast",
+      "butter",
+      "chili powder",
+      "spinach",
+      "lemon",
+      "coconut milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add corn and cook for 3-5 minutes until browned.\n4. Stir in chicken breast and butter, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and coconut milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Chinese Salad",
+    "description": "A wholesome chinese dish perfect for any meal.",
+    "cookingTime": 63,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cilantro",
+      "potato",
+      "coconut milk",
+      "chicken breast",
+      "tofu",
+      "black beans",
+      "yogurt",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add potato and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 31 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4553123/pexels-photo-4553123.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Indian Salad",
+    "description": "A mouthwatering indian dish perfect for any meal.",
+    "cookingTime": 40,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "carrot",
+      "mushrooms",
+      "black beans",
+      "lemon",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add carrot and cook for 3-5 minutes until browned.\n4. Stir in black beans and lemon, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783398/pexels-photo-31783398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Indian Stir-Fry",
+    "description": "A tasty indian dish perfect for any meal.",
+    "cookingTime": 19,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "potato",
+      "tomato",
+      "rice",
+      "butter",
+      "ginger",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add tomato and sauté for 2 minutes until fragrant.\n3. Add potato and cook for 3-5 minutes until browned.\n4. Stir in rice and butter, add 1/2 cup water or broth, reduce heat and simmer for 9 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13513758/pexels-photo-13513758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Mexican Soup",
+    "description": "A mouthwatering mexican dish perfect for any meal.",
+    "cookingTime": 49,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "dairy-free",
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "spinach",
+      "ginger",
+      "chili powder",
+      "corn",
+      "mushrooms",
+      "onion",
+      "cilantro"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in chili powder and corn, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and cilantro, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/20844828/pexels-photo-20844828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Italian Stew",
+    "description": "A aromatic italian dish perfect for any meal.",
+    "cookingTime": 42,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "ginger",
+      "onion",
+      "sugar",
+      "black beans",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in sugar and black beans, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Japanese Pasta",
+    "description": "A aromatic japanese dish perfect for any meal.",
+    "cookingTime": 65,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan",
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "bell pepper",
+      "parsley",
+      "tofu",
+      "flour",
+      "coconut milk",
+      "milk",
+      "broccoli",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add bell pepper and cook for 3-5 minutes until browned.\n4. Stir in tofu and flour, add 1/2 cup water or broth, reduce heat and simmer for 32 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory French Rice Bowl",
+    "description": "A delicious french dish perfect for any meal.",
+    "cookingTime": 68,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "tomato",
+      "spinach",
+      "chili powder",
+      "olive oil",
+      "avocado",
+      "milk",
+      "garlic"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add spinach and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in chili powder and olive oil, add 1/2 cup water or broth, reduce heat and simmer for 34 minutes.\n5. Season with salt, pepper, and garlic, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1251206/pexels-photo-1251206.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Indian Stew",
+    "description": "A aromatic indian dish perfect for any meal.",
+    "cookingTime": 73,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegetarian",
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "lemon",
+      "mushrooms",
+      "corn",
+      "tomato",
+      "garlic",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add lemon and cook for 3-5 minutes until browned.\n4. Stir in corn and tomato, add 1/2 cup water or broth, reduce heat and simmer for 36 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4611424/pexels-photo-4611424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Greek Pasta",
+    "description": "A irresistible greek dish perfect for any meal.",
+    "cookingTime": 80,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "tomato",
+      "avocado",
+      "coconut milk",
+      "butter",
+      "corn",
+      "cinnamon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and butter, add 1/2 cup water or broth, reduce heat and simmer for 40 minutes.\n5. Season with salt, pepper, and cinnamon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1150447/pexels-photo-1150447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty French Stir-Fry",
+    "description": "A zesty french dish perfect for any meal.",
+    "cookingTime": 71,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "paleo",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "yogurt",
+      "eggs",
+      "chili powder",
+      "basil",
+      "beef",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add eggs and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in chili powder and basil, add 1/2 cup water or broth, reduce heat and simmer for 35 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2233351/pexels-photo-2233351.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Thai Rice Bowl",
+    "description": "A irresistible thai dish perfect for any meal.",
+    "cookingTime": 10,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "halal",
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "butter",
+      "mushrooms",
+      "black beans",
+      "broccoli",
+      "bell pepper",
+      "ginger",
+      "yogurt",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add butter and cook for 3-5 minutes until browned.\n4. Stir in black beans and broccoli, add 1/2 cup water or broth, reduce heat and simmer for 5 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797984/pexels-photo-15797984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Thai Stew",
+    "description": "A satisfying thai dish perfect for any meal.",
+    "cookingTime": 40,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "paleo",
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "parsley",
+      "black beans",
+      "yogurt",
+      "butter",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add black beans and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in yogurt and butter, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19856566/pexels-photo-19856566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Italian Rice Bowl",
+    "description": "A aromatic italian dish perfect for any meal.",
+    "cookingTime": 52,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "olive oil",
+      "butter",
+      "carrot",
+      "cinnamon",
+      "beef",
+      "pasta",
+      "spinach",
+      "basil"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add butter and sauté for 2 minutes until fragrant.\n3. Add olive oil and cook for 3-5 minutes until browned.\n4. Stir in carrot and cinnamon, add 1/2 cup water or broth, reduce heat and simmer for 26 minutes.\n5. Season with salt, pepper, and basil, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6129294/pexels-photo-6129294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich American Tacos",
+    "description": "A flavorful american dish perfect for any meal.",
+    "cookingTime": 52,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "kosher",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "cinnamon",
+      "onion",
+      "beef",
+      "pasta",
+      "lemon",
+      "tomato",
+      "cheese",
+      "coconut milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add cinnamon and cook for 3-5 minutes until browned.\n4. Stir in beef and pasta, add 1/2 cup water or broth, reduce heat and simmer for 26 minutes.\n5. Season with salt, pepper, and coconut milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/27988486/pexels-photo-27988486.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Thai Salad",
+    "description": "A tasty thai dish perfect for any meal.",
+    "cookingTime": 31,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "lemon",
+      "broccoli",
+      "cheese",
+      "potato",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add lemon and cook for 3-5 minutes until browned.\n4. Stir in cheese and potato, add 1/2 cup water or broth, reduce heat and simmer for 15 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19856566/pexels-photo-19856566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Indian Tacos",
+    "description": "A aromatic indian dish perfect for any meal.",
+    "cookingTime": 33,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "pasta",
+      "corn",
+      "butter",
+      "rice",
+      "avocado",
+      "parsley",
+      "basil",
+      "chili powder"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add corn and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in butter and rice, add 1/2 cup water or broth, reduce heat and simmer for 16 minutes.\n5. Season with salt, pepper, and chili powder, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783398/pexels-photo-31783398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic French Wrap",
+    "description": "A irresistible french dish perfect for any meal.",
+    "cookingTime": 79,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cilantro",
+      "potato",
+      "soy sauce",
+      "avocado",
+      "coconut milk",
+      "tofu",
+      "eggs"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add potato and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in soy sauce and avocado, add 1/2 cup water or broth, reduce heat and simmer for 39 minutes.\n5. Season with salt, pepper, and eggs, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19552828/pexels-photo-19552828.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Japanese Curry",
+    "description": "A zesty japanese dish perfect for any meal.",
+    "cookingTime": 83,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal",
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "spinach",
+      "ginger",
+      "olive oil",
+      "chicken breast",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in olive oil and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/16068585/pexels-photo-16068585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty French Skewers",
+    "description": "A hearty french dish perfect for any meal.",
+    "cookingTime": 38,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "tofu",
+      "onion",
+      "cilantro",
+      "mushrooms",
+      "cinnamon",
+      "lemon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add tofu and cook for 3-5 minutes until browned.\n4. Stir in cilantro and mushrooms, add 1/2 cup water or broth, reduce heat and simmer for 19 minutes.\n5. Season with salt, pepper, and lemon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31856262/pexels-photo-31856262.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy American Salad",
+    "description": "A irresistible american dish perfect for any meal.",
+    "cookingTime": 51,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "keto",
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cumin",
+      "chili powder",
+      "ginger",
+      "flour",
+      "soy sauce",
+      "avocado",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in ginger and flour, add 1/2 cup water or broth, reduce heat and simmer for 25 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/10480246/pexels-photo-10480246.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Japanese Stew",
+    "description": "A flavorful japanese dish perfect for any meal.",
+    "cookingTime": 69,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "coconut milk",
+      "cheese",
+      "salmon",
+      "spinach",
+      "olive oil",
+      "basil",
+      "ginger",
+      "chicken breast"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add coconut milk and cook for 3-5 minutes until browned.\n4. Stir in salmon and spinach, add 1/2 cup water or broth, reduce heat and simmer for 34 minutes.\n5. Season with salt, pepper, and chicken breast, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Japanese Stir-Fry",
+    "description": "A aromatic japanese dish perfect for any meal.",
+    "cookingTime": 58,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan",
+      "kosher"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "garlic",
+      "parsley",
+      "rice",
+      "beef",
+      "avocado",
+      "corn",
+      "broccoli",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add garlic and cook for 3-5 minutes until browned.\n4. Stir in rice and beef, add 1/2 cup water or broth, reduce heat and simmer for 29 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Thai Pasta",
+    "description": "A delicious thai dish perfect for any meal.",
+    "cookingTime": 14,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "dairy-free",
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cinnamon",
+      "basil",
+      "yogurt",
+      "avocado",
+      "cheese",
+      "bell pepper"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add cinnamon and cook for 3-5 minutes until browned.\n4. Stir in yogurt and avocado, add 1/2 cup water or broth, reduce heat and simmer for 7 minutes.\n5. Season with salt, pepper, and bell pepper, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/17320982/pexels-photo-17320982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Mediterranean Skewers",
+    "description": "A mouthwatering mediterranean dish perfect for any meal.",
+    "cookingTime": 63,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "ginger",
+      "onion",
+      "cheese",
+      "milk",
+      "mushrooms",
+      "rice",
+      "tomato",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in cheese and milk, add 1/2 cup water or broth, reduce heat and simmer for 31 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13983276/pexels-photo-13983276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy American Stew",
+    "description": "A wholesome american dish perfect for any meal.",
+    "cookingTime": 55,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "tomato",
+      "avocado",
+      "salmon",
+      "milk",
+      "garlic",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in salmon and milk, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty American Pasta",
+    "description": "A aromatic american dish perfect for any meal.",
+    "cookingTime": 36,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "rice",
+      "bell pepper",
+      "butter",
+      "olive oil",
+      "ginger",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add bell pepper and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in butter and olive oil, add 1/2 cup water or broth, reduce heat and simmer for 18 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13051222/pexels-photo-13051222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Mexican Rice Bowl",
+    "description": "A irresistible mexican dish perfect for any meal.",
+    "cookingTime": 32,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "broccoli",
+      "pasta",
+      "parsley",
+      "garlic",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add broccoli and cook for 3-5 minutes until browned.\n4. Stir in parsley and garlic, add 1/2 cup water or broth, reduce heat and simmer for 16 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5848734/pexels-photo-5848734.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic French Pasta",
+    "description": "A zesty french dish perfect for any meal.",
+    "cookingTime": 77,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cheese",
+      "chili powder",
+      "tofu",
+      "mushrooms",
+      "rice",
+      "black beans",
+      "cilantro",
+      "garlic"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add cheese and cook for 3-5 minutes until browned.\n4. Stir in tofu and mushrooms, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and garlic, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19029457/pexels-photo-19029457.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Mediterranean Wrap",
+    "description": "A delicious mediterranean dish perfect for any meal.",
+    "cookingTime": 17,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "gluten-free",
+      "paleo"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "corn",
+      "mushrooms",
+      "beef",
+      "salmon",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add corn and cook for 3-5 minutes until browned.\n4. Stir in beef and salmon, add 1/2 cup water or broth, reduce heat and simmer for 8 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8963961/pexels-photo-8963961.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Greek Salad",
+    "description": "A mouthwatering greek dish perfect for any meal.",
+    "cookingTime": 45,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "gluten-free",
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "avocado",
+      "chili powder",
+      "potato",
+      "tofu",
+      "tomato",
+      "cumin",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add avocado and cook for 3-5 minutes until browned.\n4. Stir in potato and tofu, add 1/2 cup water or broth, reduce heat and simmer for 22 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/27497770/pexels-photo-27497770.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Mediterranean Tacos",
+    "description": "A tasty mediterranean dish perfect for any meal.",
+    "cookingTime": 39,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "kosher",
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "carrot",
+      "tofu",
+      "parsley",
+      "potato",
+      "cumin",
+      "bell pepper",
+      "basil",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add tofu and sauté for 2 minutes until fragrant.\n3. Add carrot and cook for 3-5 minutes until browned.\n4. Stir in parsley and potato, add 1/2 cup water or broth, reduce heat and simmer for 19 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1618921/pexels-photo-1618921.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Mexican Salad",
+    "description": "A flavorful mexican dish perfect for any meal.",
+    "cookingTime": 20,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "basil",
+      "chicken breast",
+      "bell pepper",
+      "tomato",
+      "carrot",
+      "sugar",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chicken breast and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in bell pepper and tomato, add 1/2 cup water or broth, reduce heat and simmer for 10 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/17429143/pexels-photo-17429143.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Thai Stir-Fry",
+    "description": "A aromatic thai dish perfect for any meal.",
+    "cookingTime": 49,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "vegan",
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "butter",
+      "black beans",
+      "rice",
+      "tofu",
+      "broccoli",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add black beans and sauté for 2 minutes until fragrant.\n3. Add butter and cook for 3-5 minutes until browned.\n4. Stir in rice and tofu, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797949/pexels-photo-15797949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Mediterranean Salad",
+    "description": "A irresistible mediterranean dish perfect for any meal.",
+    "cookingTime": 83,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "ginger",
+      "garlic",
+      "sugar",
+      "cilantro",
+      "bell pepper"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add garlic and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in sugar and cilantro, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and bell pepper, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2532006/pexels-photo-2532006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic American Pasta",
+    "description": "A mouthwatering american dish perfect for any meal.",
+    "cookingTime": 82,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "vegan",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "salmon",
+      "cumin",
+      "milk",
+      "yogurt",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cumin and sauté for 2 minutes until fragrant.\n3. Add salmon and cook for 3-5 minutes until browned.\n4. Stir in milk and yogurt, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13051222/pexels-photo-13051222.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Japanese Pasta",
+    "description": "A hearty japanese dish perfect for any meal.",
+    "cookingTime": 49,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan",
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "chicken breast",
+      "salmon",
+      "ginger",
+      "mushrooms",
+      "potato",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add chicken breast and cook for 3-5 minutes until browned.\n4. Stir in ginger and mushrooms, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Greek Tacos",
+    "description": "A irresistible greek dish perfect for any meal.",
+    "cookingTime": 37,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "lemon",
+      "corn",
+      "cumin",
+      "cilantro",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add corn and sauté for 2 minutes until fragrant.\n3. Add lemon and cook for 3-5 minutes until browned.\n4. Stir in cumin and cilantro, add 1/2 cup water or broth, reduce heat and simmer for 18 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1150447/pexels-photo-1150447.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Indian Skewers",
+    "description": "A delicious indian dish perfect for any meal.",
+    "cookingTime": 10,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "soy sauce",
+      "lemon",
+      "parsley",
+      "tomato",
+      "olive oil",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add lemon and sauté for 2 minutes until fragrant.\n3. Add soy sauce and cook for 3-5 minutes until browned.\n4. Stir in parsley and tomato, add 1/2 cup water or broth, reduce heat and simmer for 5 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4427655/pexels-photo-4427655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Thai Pasta",
+    "description": "A zesty thai dish perfect for any meal.",
+    "cookingTime": 78,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "onion",
+      "potato",
+      "garlic",
+      "avocado",
+      "beef",
+      "cinnamon",
+      "flour",
+      "lemon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add potato and sauté for 2 minutes until fragrant.\n3. Add onion and cook for 3-5 minutes until browned.\n4. Stir in garlic and avocado, add 1/2 cup water or broth, reduce heat and simmer for 39 minutes.\n5. Season with salt, pepper, and lemon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/17379688/pexels-photo-17379688.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Thai Tacos",
+    "description": "A zesty thai dish perfect for any meal.",
+    "cookingTime": 47,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "flour",
+      "avocado",
+      "cheese",
+      "salmon",
+      "potato",
+      "corn",
+      "chicken breast"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add flour and cook for 3-5 minutes until browned.\n4. Stir in cheese and salmon, add 1/2 cup water or broth, reduce heat and simmer for 23 minutes.\n5. Season with salt, pepper, and chicken breast, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797950/pexels-photo-15797950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Indian Skewers",
+    "description": "A zesty indian dish perfect for any meal.",
+    "cookingTime": 77,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "rice",
+      "bell pepper",
+      "flour",
+      "beef",
+      "tomato",
+      "soy sauce",
+      "black beans"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add bell pepper and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in flour and beef, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and black beans, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4427655/pexels-photo-4427655.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Indian Stew",
+    "description": "A mouthwatering indian dish perfect for any meal.",
+    "cookingTime": 40,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "sugar",
+      "butter",
+      "beef",
+      "coconut milk",
+      "corn",
+      "rice"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add butter and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in beef and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and rice, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4611424/pexels-photo-4611424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Greek Wrap",
+    "description": "A aromatic greek dish perfect for any meal.",
+    "cookingTime": 89,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "kosher",
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "black beans",
+      "mushrooms",
+      "cilantro",
+      "ginger",
+      "chicken breast"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add black beans and cook for 3-5 minutes until browned.\n4. Stir in cilantro and ginger, add 1/2 cup water or broth, reduce heat and simmer for 44 minutes.\n5. Season with salt, pepper, and chicken breast, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5779377/pexels-photo-5779377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty American Salad",
+    "description": "A irresistible american dish perfect for any meal.",
+    "cookingTime": 69,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "beef",
+      "salmon",
+      "chili powder",
+      "yogurt",
+      "avocado",
+      "lemon",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add beef and cook for 3-5 minutes until browned.\n4. Stir in chili powder and yogurt, add 1/2 cup water or broth, reduce heat and simmer for 34 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Italian Skewers",
+    "description": "A satisfying italian dish perfect for any meal.",
+    "cookingTime": 51,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "keto",
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "bell pepper",
+      "salmon",
+      "chili powder",
+      "sugar",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add bell pepper and cook for 3-5 minutes until browned.\n4. Stir in chili powder and sugar, add 1/2 cup water or broth, reduce heat and simmer for 25 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/18285316/pexels-photo-18285316.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Indian Wrap",
+    "description": "A wholesome indian dish perfect for any meal.",
+    "cookingTime": 76,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "yogurt",
+      "carrot",
+      "bell pepper",
+      "chicken breast",
+      "cumin",
+      "onion",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add carrot and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in bell pepper and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13063314/pexels-photo-13063314.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Chinese Tacos",
+    "description": "A irresistible chinese dish perfect for any meal.",
+    "cookingTime": 42,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "broccoli",
+      "cilantro",
+      "spinach",
+      "basil",
+      "salmon",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cilantro and sauté for 2 minutes until fragrant.\n3. Add broccoli and cook for 3-5 minutes until browned.\n4. Stir in spinach and basil, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/27352369/pexels-photo-27352369.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Mediterranean Stew",
+    "description": "A mouthwatering mediterranean dish perfect for any meal.",
+    "cookingTime": 77,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "garlic",
+      "cheese",
+      "cilantro",
+      "sugar",
+      "milk",
+      "flour",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add garlic and cook for 3-5 minutes until browned.\n4. Stir in cilantro and sugar, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/1618925/pexels-photo-1618925.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Japanese Curry",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 29,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "bell pepper",
+      "basil",
+      "yogurt",
+      "butter",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add bell pepper and cook for 3-5 minutes until browned.\n4. Stir in yogurt and butter, add 1/2 cup water or broth, reduce heat and simmer for 14 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/16068585/pexels-photo-16068585.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Mexican Pasta",
+    "description": "A tasty mexican dish perfect for any meal.",
+    "cookingTime": 15,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "kosher",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "mushrooms",
+      "lemon",
+      "coconut milk",
+      "rice",
+      "pasta",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add lemon and sauté for 2 minutes until fragrant.\n3. Add mushrooms and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and rice, add 1/2 cup water or broth, reduce heat and simmer for 7 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/765082/pexels-photo-765082.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Japanese Stew",
+    "description": "A aromatic japanese dish perfect for any meal.",
+    "cookingTime": 66,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal",
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "flour",
+      "eggs",
+      "basil",
+      "soy sauce",
+      "chicken breast",
+      "parsley",
+      "pasta",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add eggs and sauté for 2 minutes until fragrant.\n3. Add flour and cook for 3-5 minutes until browned.\n4. Stir in basil and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2132942/pexels-photo-2132942.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty American Salad",
+    "description": "A wholesome american dish perfect for any meal.",
+    "cookingTime": 25,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "vegan",
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "mushrooms",
+      "chili powder",
+      "butter",
+      "potato",
+      "salmon",
+      "black beans",
+      "avocado"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add mushrooms and cook for 3-5 minutes until browned.\n4. Stir in butter and potato, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and avocado, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Indian Stew",
+    "description": "A delicious indian dish perfect for any meal.",
+    "cookingTime": 63,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "pasta",
+      "yogurt",
+      "salmon",
+      "cheese",
+      "rice",
+      "olive oil",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add yogurt and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in salmon and cheese, add 1/2 cup water or broth, reduce heat and simmer for 31 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4611424/pexels-photo-4611424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Chinese Pasta",
+    "description": "A mouthwatering chinese dish perfect for any meal.",
+    "cookingTime": 14,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "dairy-free",
+      "kosher"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "mushrooms",
+      "olive oil",
+      "salmon",
+      "garlic",
+      "soy sauce",
+      "tofu",
+      "carrot",
+      "beef"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add mushrooms and cook for 3-5 minutes until browned.\n4. Stir in salmon and garlic, add 1/2 cup water or broth, reduce heat and simmer for 7 minutes.\n5. Season with salt, pepper, and beef, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Mediterranean Rice Bowl",
+    "description": "A zesty mediterranean dish perfect for any meal.",
+    "cookingTime": 24,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "paleo",
+      "keto"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "pasta",
+      "carrot",
+      "avocado",
+      "beef",
+      "tomato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add carrot and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in avocado and beef, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and tomato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/7129434/pexels-photo-7129434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Japanese Rice Bowl",
+    "description": "A delicious japanese dish perfect for any meal.",
+    "cookingTime": 90,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "olive oil",
+      "broccoli",
+      "pasta",
+      "carrot",
+      "sugar",
+      "bell pepper",
+      "black beans",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add olive oil and cook for 3-5 minutes until browned.\n4. Stir in pasta and carrot, add 1/2 cup water or broth, reduce heat and simmer for 45 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/47546/sushi-eat-japanese-asia-47546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Mediterranean Salad",
+    "description": "A wholesome mediterranean dish perfect for any meal.",
+    "cookingTime": 79,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "yogurt",
+      "cheese",
+      "soy sauce",
+      "garlic",
+      "broccoli"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in soy sauce and garlic, add 1/2 cup water or broth, reduce heat and simmer for 39 minutes.\n5. Season with salt, pepper, and broccoli, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2532006/pexels-photo-2532006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Chinese Curry",
+    "description": "A flavorful chinese dish perfect for any meal.",
+    "cookingTime": 84,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "keto",
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "sugar",
+      "avocado",
+      "black beans",
+      "coconut milk",
+      "basil",
+      "onion",
+      "broccoli"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in black beans and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 42 minutes.\n5. Season with salt, pepper, and broccoli, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Japanese Stir-Fry",
+    "description": "A satisfying japanese dish perfect for any meal.",
+    "cookingTime": 15,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "chili powder",
+      "spinach",
+      "black beans",
+      "soy sauce",
+      "onion",
+      "yogurt",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add spinach and sauté for 2 minutes until fragrant.\n3. Add chili powder and cook for 3-5 minutes until browned.\n4. Stir in black beans and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 7 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8951180/pexels-photo-8951180.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Indian Stew",
+    "description": "A delicious indian dish perfect for any meal.",
+    "cookingTime": 52,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegan",
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "spinach",
+      "mushrooms",
+      "yogurt",
+      "bell pepper",
+      "sugar",
+      "pasta",
+      "broccoli",
+      "black beans"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in yogurt and bell pepper, add 1/2 cup water or broth, reduce heat and simmer for 26 minutes.\n5. Season with salt, pepper, and black beans, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4611424/pexels-photo-4611424.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty American Stir-Fry",
+    "description": "A flavorful american dish perfect for any meal.",
+    "cookingTime": 64,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "cinnamon",
+      "lemon",
+      "parsley",
+      "tofu",
+      "salmon",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add lemon and sauté for 2 minutes until fragrant.\n3. Add cinnamon and cook for 3-5 minutes until browned.\n4. Stir in parsley and tofu, add 1/2 cup water or broth, reduce heat and simmer for 32 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick French Wrap",
+    "description": "A aromatic french dish perfect for any meal.",
+    "cookingTime": 64,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "onion",
+      "broccoli",
+      "potato",
+      "ginger",
+      "chicken breast",
+      "coconut milk",
+      "bell pepper",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add onion and cook for 3-5 minutes until browned.\n4. Stir in potato and ginger, add 1/2 cup water or broth, reduce heat and simmer for 32 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/28442301/pexels-photo-28442301.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Thai Rice Bowl",
+    "description": "A mouthwatering thai dish perfect for any meal.",
+    "cookingTime": 13,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "beef",
+      "pasta",
+      "cheese",
+      "cumin",
+      "yogurt",
+      "black beans"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add beef and cook for 3-5 minutes until browned.\n4. Stir in cheese and cumin, add 1/2 cup water or broth, reduce heat and simmer for 6 minutes.\n5. Season with salt, pepper, and black beans, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797984/pexels-photo-15797984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Greek Skewers",
+    "description": "A mouthwatering greek dish perfect for any meal.",
+    "cookingTime": 67,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "kosher",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cumin",
+      "cheese",
+      "spinach",
+      "parsley",
+      "ginger",
+      "tomato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in spinach and parsley, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and tomato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13983276/pexels-photo-13983276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Chinese Pasta",
+    "description": "A tasty chinese dish perfect for any meal.",
+    "cookingTime": 76,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "vegan",
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "milk",
+      "lemon",
+      "corn",
+      "eggs",
+      "tomato",
+      "beef",
+      "potato",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add lemon and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in corn and eggs, add 1/2 cup water or broth, reduce heat and simmer for 38 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Japanese Wrap",
+    "description": "A flavorful japanese dish perfect for any meal.",
+    "cookingTime": 50,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan",
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "cilantro",
+      "flour",
+      "sugar",
+      "cheese",
+      "rice",
+      "chicken breast",
+      "tofu"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add flour and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in sugar and cheese, add 1/2 cup water or broth, reduce heat and simmer for 25 minutes.\n5. Season with salt, pepper, and tofu, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8963453/pexels-photo-8963453.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Mexican Wrap",
+    "description": "A delicious mexican dish perfect for any meal.",
+    "cookingTime": 56,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "dairy-free",
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "salmon",
+      "beef",
+      "cilantro",
+      "spinach",
+      "black beans",
+      "soy sauce"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add salmon and cook for 3-5 minutes until browned.\n4. Stir in cilantro and spinach, add 1/2 cup water or broth, reduce heat and simmer for 28 minutes.\n5. Season with salt, pepper, and soy sauce, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5837196/pexels-photo-5837196.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Thai Skewers",
+    "description": "A flavorful thai dish perfect for any meal.",
+    "cookingTime": 26,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "vegan",
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "basil",
+      "sugar",
+      "coconut milk",
+      "potato",
+      "chicken breast",
+      "carrot",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add sugar and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and potato, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2350516/pexels-photo-2350516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Mediterranean Stir-Fry",
+    "description": "A mouthwatering mediterranean dish perfect for any meal.",
+    "cookingTime": 30,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "paleo",
+      "keto"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "salmon",
+      "soy sauce",
+      "eggs",
+      "ginger",
+      "basil",
+      "parsley",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add soy sauce and sauté for 2 minutes until fragrant.\n3. Add salmon and cook for 3-5 minutes until browned.\n4. Stir in eggs and ginger, add 1/2 cup water or broth, reduce heat and simmer for 15 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6275183/pexels-photo-6275183.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Greek Salad",
+    "description": "A wholesome greek dish perfect for any meal.",
+    "cookingTime": 31,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "onion",
+      "garlic",
+      "salmon",
+      "coconut milk",
+      "soy sauce",
+      "parsley",
+      "tofu"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add garlic and sauté for 2 minutes until fragrant.\n3. Add onion and cook for 3-5 minutes until browned.\n4. Stir in salmon and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 15 minutes.\n5. Season with salt, pepper, and tofu, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6065179/pexels-photo-6065179.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Greek Skewers",
+    "description": "A delicious greek dish perfect for any meal.",
+    "cookingTime": 73,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "halal",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cilantro",
+      "avocado",
+      "beef",
+      "chicken breast",
+      "flour",
+      "rice",
+      "milk",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in beef and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 36 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13983276/pexels-photo-13983276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Japanese Stew",
+    "description": "A aromatic japanese dish perfect for any meal.",
+    "cookingTime": 28,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "kosher",
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "basil",
+      "cheese",
+      "chili powder",
+      "tofu",
+      "parsley",
+      "tomato",
+      "rice",
+      "chicken breast"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in chili powder and tofu, add 1/2 cup water or broth, reduce heat and simmer for 14 minutes.\n5. Season with salt, pepper, and chicken breast, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2132942/pexels-photo-2132942.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy French Curry",
+    "description": "A mouthwatering french dish perfect for any meal.",
+    "cookingTime": 22,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "pasta",
+      "flour",
+      "parsley",
+      "cumin",
+      "eggs",
+      "yogurt",
+      "salmon",
+      "coconut milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add flour and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in parsley and cumin, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and coconut milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31557707/pexels-photo-31557707.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Mediterranean Wrap",
+    "description": "A irresistible mediterranean dish perfect for any meal.",
+    "cookingTime": 73,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "pasta",
+      "milk",
+      "broccoli",
+      "chicken breast",
+      "chili powder",
+      "butter",
+      "coconut milk",
+      "cilantro"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add milk and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in broccoli and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 36 minutes.\n5. Season with salt, pepper, and cilantro, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/12815870/pexels-photo-12815870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Japanese Rice Bowl",
+    "description": "A delicious japanese dish perfect for any meal.",
+    "cookingTime": 23,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "keto",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "spinach",
+      "cheese",
+      "onion",
+      "coconut milk",
+      "chicken breast",
+      "lemon",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in onion and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Indian Rice Bowl",
+    "description": "A irresistible indian dish perfect for any meal.",
+    "cookingTime": 19,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "dairy-free",
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "tomato",
+      "basil",
+      "tofu",
+      "spinach",
+      "cheese",
+      "chili powder",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in tofu and spinach, add 1/2 cup water or broth, reduce heat and simmer for 9 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Mediterranean Pasta",
+    "description": "A satisfying mediterranean dish perfect for any meal.",
+    "cookingTime": 87,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "vegetarian",
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "bell pepper",
+      "black beans",
+      "cumin",
+      "avocado",
+      "butter",
+      "cilantro"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add black beans and sauté for 2 minutes until fragrant.\n3. Add bell pepper and cook for 3-5 minutes until browned.\n4. Stir in cumin and avocado, add 1/2 cup water or broth, reduce heat and simmer for 43 minutes.\n5. Season with salt, pepper, and cilantro, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/27850110/pexels-photo-27850110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Mediterranean Stew",
+    "description": "A aromatic mediterranean dish perfect for any meal.",
+    "cookingTime": 50,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "bell pepper",
+      "chili powder",
+      "cinnamon",
+      "corn",
+      "cilantro",
+      "pasta",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add bell pepper and cook for 3-5 minutes until browned.\n4. Stir in cinnamon and corn, add 1/2 cup water or broth, reduce heat and simmer for 25 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5175542/pexels-photo-5175542.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Italian Stew",
+    "description": "A flavorful italian dish perfect for any meal.",
+    "cookingTime": 63,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "vegetarian",
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "rice",
+      "chicken breast",
+      "black beans",
+      "flour",
+      "yogurt",
+      "beef",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chicken breast and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in black beans and flour, add 1/2 cup water or broth, reduce heat and simmer for 31 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Indian Skewers",
+    "description": "A flavorful indian dish perfect for any meal.",
+    "cookingTime": 34,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "butter",
+      "carrot",
+      "milk",
+      "cinnamon",
+      "black beans",
+      "potato",
+      "corn",
+      "cheese"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add carrot and sauté for 2 minutes until fragrant.\n3. Add butter and cook for 3-5 minutes until browned.\n4. Stir in milk and cinnamon, add 1/2 cup water or broth, reduce heat and simmer for 17 minutes.\n5. Season with salt, pepper, and cheese, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783398/pexels-photo-31783398.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Italian Rice Bowl",
+    "description": "A satisfying italian dish perfect for any meal.",
+    "cookingTime": 81,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "dairy-free",
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "sugar",
+      "avocado",
+      "bell pepper",
+      "broccoli",
+      "soy sauce",
+      "cilantro",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add avocado and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in bell pepper and broccoli, add 1/2 cup water or broth, reduce heat and simmer for 40 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6129294/pexels-photo-6129294.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Indian Stir-Fry",
+    "description": "A wholesome indian dish perfect for any meal.",
+    "cookingTime": 48,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "corn",
+      "parsley",
+      "black beans",
+      "broccoli",
+      "ginger",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add corn and cook for 3-5 minutes until browned.\n4. Stir in black beans and broccoli, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13513758/pexels-photo-13513758.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Chinese Rice Bowl",
+    "description": "A zesty chinese dish perfect for any meal.",
+    "cookingTime": 60,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "keto",
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "salmon",
+      "broccoli",
+      "mushrooms",
+      "soy sauce",
+      "black beans",
+      "tofu",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add salmon and cook for 3-5 minutes until browned.\n4. Stir in mushrooms and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 30 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Mediterranean Rice Bowl",
+    "description": "A irresistible mediterranean dish perfect for any meal.",
+    "cookingTime": 27,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cumin",
+      "rice",
+      "chicken breast",
+      "tofu",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add rice and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in chicken breast and tofu, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/7129434/pexels-photo-7129434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy American Salad",
+    "description": "A mouthwatering american dish perfect for any meal.",
+    "cookingTime": 10,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "black beans",
+      "eggs",
+      "lemon",
+      "parsley",
+      "cumin",
+      "chili powder",
+      "garlic",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add eggs and sauté for 2 minutes until fragrant.\n3. Add black beans and cook for 3-5 minutes until browned.\n4. Stir in lemon and parsley, add 1/2 cup water or broth, reduce heat and simmer for 5 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/4728861/pexels-photo-4728861.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Chinese Curry",
+    "description": "A wholesome chinese dish perfect for any meal.",
+    "cookingTime": 14,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "spinach",
+      "corn",
+      "sugar",
+      "lemon",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add corn and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in sugar and lemon, add 1/2 cup water or broth, reduce heat and simmer for 7 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5409015/pexels-photo-5409015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Italian Skewers",
+    "description": "A aromatic italian dish perfect for any meal.",
+    "cookingTime": 23,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "halal",
+      "paleo"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "basil",
+      "chili powder",
+      "avocado",
+      "ginger",
+      "eggs",
+      "spinach",
+      "chicken breast",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in avocado and ginger, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/16255193/pexels-photo-16255193.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Mexican Stir-Fry",
+    "description": "A mouthwatering mexican dish perfect for any meal.",
+    "cookingTime": 11,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "halal",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "sugar",
+      "spinach",
+      "potato",
+      "chili powder",
+      "parsley",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add spinach and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in potato and chili powder, add 1/2 cup water or broth, reduce heat and simmer for 5 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5737364/pexels-photo-5737364.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Thai Pasta",
+    "description": "A mouthwatering thai dish perfect for any meal.",
+    "cookingTime": 71,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "paleo",
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "pasta",
+      "mushrooms",
+      "ginger",
+      "bell pepper",
+      "cilantro",
+      "lemon",
+      "cheese",
+      "black beans"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in ginger and bell pepper, add 1/2 cup water or broth, reduce heat and simmer for 35 minutes.\n5. Season with salt, pepper, and black beans, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/17320982/pexels-photo-17320982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Italian Stew",
+    "description": "A satisfying italian dish perfect for any meal.",
+    "cookingTime": 17,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "spinach",
+      "chili powder",
+      "cilantro",
+      "tomato",
+      "lemon",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in cilantro and tomato, add 1/2 cup water or broth, reduce heat and simmer for 8 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Greek Curry",
+    "description": "A mouthwatering greek dish perfect for any meal.",
+    "cookingTime": 71,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "carrot",
+      "black beans",
+      "milk",
+      "pasta",
+      "salmon",
+      "soy sauce",
+      "rice"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add black beans and sauté for 2 minutes until fragrant.\n3. Add carrot and cook for 3-5 minutes until browned.\n4. Stir in milk and pasta, add 1/2 cup water or broth, reduce heat and simmer for 35 minutes.\n5. Season with salt, pepper, and rice, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19177208/pexels-photo-19177208.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Mediterranean Salad",
+    "description": "A aromatic mediterranean dish perfect for any meal.",
+    "cookingTime": 24,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "flour",
+      "parsley",
+      "cumin",
+      "mushrooms",
+      "tomato",
+      "bell pepper"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add flour and cook for 3-5 minutes until browned.\n4. Stir in cumin and mushrooms, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and bell pepper, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2532006/pexels-photo-2532006.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Indian Wrap",
+    "description": "A flavorful indian dish perfect for any meal.",
+    "cookingTime": 75,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegetarian",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "avocado",
+      "chicken breast",
+      "coconut milk",
+      "cilantro",
+      "garlic",
+      "eggs",
+      "basil",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chicken breast and sauté for 2 minutes until fragrant.\n3. Add avocado and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and cilantro, add 1/2 cup water or broth, reduce heat and simmer for 37 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/18488304/pexels-photo-18488304.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Italian Skewers",
+    "description": "A flavorful italian dish perfect for any meal.",
+    "cookingTime": 15,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "kosher",
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "beef",
+      "black beans",
+      "onion",
+      "lemon",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add black beans and sauté for 2 minutes until fragrant.\n3. Add beef and cook for 3-5 minutes until browned.\n4. Stir in onion and lemon, add 1/2 cup water or broth, reduce heat and simmer for 7 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Mexican Tacos",
+    "description": "A hearty mexican dish perfect for any meal.",
+    "cookingTime": 58,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "gluten-free",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "broccoli",
+      "tomato",
+      "sugar",
+      "spinach",
+      "basil",
+      "cheese"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add tomato and sauté for 2 minutes until fragrant.\n3. Add broccoli and cook for 3-5 minutes until browned.\n4. Stir in sugar and spinach, add 1/2 cup water or broth, reduce heat and simmer for 29 minutes.\n5. Season with salt, pepper, and cheese, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5837108/pexels-photo-5837108.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Indian Soup",
+    "description": "A irresistible indian dish perfect for any meal.",
+    "cookingTime": 69,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "gluten-free",
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "avocado",
+      "broccoli",
+      "butter",
+      "ginger",
+      "eggs",
+      "coconut milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add avocado and cook for 3-5 minutes until browned.\n4. Stir in butter and ginger, add 1/2 cup water or broth, reduce heat and simmer for 34 minutes.\n5. Season with salt, pepper, and coconut milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/18698228/pexels-photo-18698228.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Chinese Tacos",
+    "description": "A aromatic chinese dish perfect for any meal.",
+    "cookingTime": 12,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "onion",
+      "mushrooms",
+      "chicken breast",
+      "pasta",
+      "spinach"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add mushrooms and sauté for 2 minutes until fragrant.\n3. Add onion and cook for 3-5 minutes until browned.\n4. Stir in chicken breast and pasta, add 1/2 cup water or broth, reduce heat and simmer for 6 minutes.\n5. Season with salt, pepper, and spinach, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/9863619/pexels-photo-9863619.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Japanese Rice Bowl",
+    "description": "A satisfying japanese dish perfect for any meal.",
+    "cookingTime": 17,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "parsley",
+      "pasta",
+      "cilantro",
+      "butter",
+      "rice",
+      "milk",
+      "chili powder"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in cilantro and butter, add 1/2 cup water or broth, reduce heat and simmer for 8 minutes.\n5. Season with salt, pepper, and chili powder, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/47546/sushi-eat-japanese-asia-47546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic French Rice Bowl",
+    "description": "A aromatic french dish perfect for any meal.",
+    "cookingTime": 32,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "dairy-free",
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cumin",
+      "parsley",
+      "carrot",
+      "coconut milk",
+      "butter",
+      "corn",
+      "eggs",
+      "salmon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in carrot and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 16 minutes.\n5. Season with salt, pepper, and salmon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/22431207/pexels-photo-22431207.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Mediterranean Curry",
+    "description": "A satisfying mediterranean dish perfect for any meal.",
+    "cookingTime": 48,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "carrot",
+      "cumin",
+      "basil",
+      "yogurt",
+      "pasta",
+      "cinnamon",
+      "tofu",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cumin and sauté for 2 minutes until fragrant.\n3. Add carrot and cook for 3-5 minutes until browned.\n4. Stir in basil and yogurt, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/12815870/pexels-photo-12815870.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Chinese Stew",
+    "description": "A flavorful chinese dish perfect for any meal.",
+    "cookingTime": 78,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "onion",
+      "beef",
+      "eggs",
+      "milk",
+      "black beans",
+      "tofu",
+      "potato",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add onion and cook for 3-5 minutes until browned.\n4. Stir in eggs and milk, add 1/2 cup water or broth, reduce heat and simmer for 39 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/28674534/pexels-photo-28674534.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic French Curry",
+    "description": "A satisfying french dish perfect for any meal.",
+    "cookingTime": 25,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "paleo",
+      "kosher"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "spinach",
+      "pasta",
+      "parsley",
+      "lemon",
+      "yogurt",
+      "rice"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add pasta and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in parsley and lemon, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and rice, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31776174/pexels-photo-31776174.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Mediterranean Stir-Fry",
+    "description": "A irresistible mediterranean dish perfect for any meal.",
+    "cookingTime": 56,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "dairy-free",
+      "vegetarian"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "parsley",
+      "milk",
+      "cheese",
+      "coconut milk",
+      "carrot",
+      "garlic",
+      "lemon",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add milk and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in cheese and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 28 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6275096/pexels-photo-6275096.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Indian Soup",
+    "description": "A irresistible indian dish perfect for any meal.",
+    "cookingTime": 80,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "halal",
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "rice",
+      "yogurt",
+      "pasta",
+      "corn",
+      "bell pepper",
+      "basil",
+      "cinnamon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add yogurt and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in pasta and corn, add 1/2 cup water or broth, reduce heat and simmer for 40 minutes.\n5. Season with salt, pepper, and cinnamon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19781594/pexels-photo-19781594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Japanese Wrap",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 55,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "sugar",
+      "cinnamon",
+      "chicken breast",
+      "onion",
+      "beef",
+      "black beans",
+      "carrot",
+      "bell pepper"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in chicken breast and onion, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and bell pepper, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/30261972/pexels-photo-30261972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Italian Tacos",
+    "description": "A mouthwatering italian dish perfect for any meal.",
+    "cookingTime": 90,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "olive oil",
+      "milk",
+      "chili powder",
+      "avocado",
+      "cheese",
+      "garlic"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add milk and sauté for 2 minutes until fragrant.\n3. Add olive oil and cook for 3-5 minutes until browned.\n4. Stir in chili powder and avocado, add 1/2 cup water or broth, reduce heat and simmer for 45 minutes.\n5. Season with salt, pepper, and garlic, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19681747/pexels-photo-19681747.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Greek Wrap",
+    "description": "A tasty greek dish perfect for any meal.",
+    "cookingTime": 12,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cumin",
+      "ginger",
+      "cinnamon",
+      "lemon",
+      "garlic"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in cinnamon and lemon, add 1/2 cup water or broth, reduce heat and simmer for 6 minutes.\n5. Season with salt, pepper, and garlic, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5779377/pexels-photo-5779377.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Mediterranean Pasta",
+    "description": "A flavorful mediterranean dish perfect for any meal.",
+    "cookingTime": 22,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "broccoli",
+      "ginger",
+      "spinach",
+      "salmon",
+      "cheese",
+      "black beans",
+      "eggs"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add broccoli and cook for 3-5 minutes until browned.\n4. Stir in spinach and salmon, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and eggs, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2092906/pexels-photo-2092906.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Japanese Curry",
+    "description": "A satisfying japanese dish perfect for any meal.",
+    "cookingTime": 48,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "yogurt",
+      "coconut milk",
+      "black beans",
+      "chicken breast",
+      "olive oil",
+      "broccoli",
+      "salmon",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add coconut milk and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in black beans and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/16068663/pexels-photo-16068663.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Japanese Stew",
+    "description": "A aromatic japanese dish perfect for any meal.",
+    "cookingTime": 22,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "ginger",
+      "onion",
+      "beef",
+      "coconut milk",
+      "cinnamon",
+      "salmon",
+      "avocado",
+      "potato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in beef and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and potato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/7245458/pexels-photo-7245458.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic American Curry",
+    "description": "A aromatic american dish perfect for any meal.",
+    "cookingTime": 28,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "vegan",
+      "keto"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "yogurt",
+      "cinnamon",
+      "bell pepper",
+      "coconut milk",
+      "basil",
+      "spinach"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cinnamon and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in bell pepper and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 14 minutes.\n5. Season with salt, pepper, and spinach, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15023029/pexels-photo-15023029.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Chinese Stew",
+    "description": "A delicious chinese dish perfect for any meal.",
+    "cookingTime": 22,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "paleo",
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "spinach",
+      "parsley",
+      "garlic",
+      "ginger",
+      "mushrooms",
+      "pasta",
+      "tomato"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in garlic and ginger, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and tomato, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5848538/pexels-photo-5848538.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty American Tacos",
+    "description": "A zesty american dish perfect for any meal.",
+    "cookingTime": 33,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "vegan",
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "pasta",
+      "beef",
+      "salmon",
+      "ginger",
+      "butter",
+      "eggs",
+      "broccoli"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in salmon and ginger, add 1/2 cup water or broth, reduce heat and simmer for 16 minutes.\n5. Season with salt, pepper, and broccoli, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Mexican Stew",
+    "description": "A hearty mexican dish perfect for any meal.",
+    "cookingTime": 23,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cheese",
+      "ginger",
+      "tofu",
+      "basil",
+      "salmon",
+      "corn",
+      "milk",
+      "rice"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add cheese and cook for 3-5 minutes until browned.\n4. Stir in tofu and basil, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and rice, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31843929/pexels-photo-31843929.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Mediterranean Rice Bowl",
+    "description": "A zesty mediterranean dish perfect for any meal.",
+    "cookingTime": 23,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "parsley",
+      "yogurt",
+      "olive oil",
+      "lemon",
+      "carrot"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add yogurt and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in olive oil and lemon, add 1/2 cup water or broth, reduce heat and simmer for 11 minutes.\n5. Season with salt, pepper, and carrot, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/7129434/pexels-photo-7129434.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Thai Rice Bowl",
+    "description": "A satisfying thai dish perfect for any meal.",
+    "cookingTime": 83,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "gluten-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "ginger",
+      "cilantro",
+      "coconut milk",
+      "corn",
+      "butter",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cilantro and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in coconut milk and corn, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797984/pexels-photo-15797984.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Mexican Stir-Fry",
+    "description": "A zesty mexican dish perfect for any meal.",
+    "cookingTime": 48,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegan",
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "corn",
+      "eggs",
+      "avocado",
+      "tofu",
+      "basil",
+      "butter"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add eggs and sauté for 2 minutes until fragrant.\n3. Add corn and cook for 3-5 minutes until browned.\n4. Stir in avocado and tofu, add 1/2 cup water or broth, reduce heat and simmer for 24 minutes.\n5. Season with salt, pepper, and butter, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8064387/pexels-photo-8064387.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Italian Stew",
+    "description": "A aromatic italian dish perfect for any meal.",
+    "cookingTime": 58,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "dairy-free",
+      "keto"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cilantro",
+      "parsley",
+      "eggs",
+      "black beans",
+      "cinnamon",
+      "salmon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add parsley and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in eggs and black beans, add 1/2 cup water or broth, reduce heat and simmer for 29 minutes.\n5. Season with salt, pepper, and salmon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Thai Stir-Fry",
+    "description": "A tasty thai dish perfect for any meal.",
+    "cookingTime": 83,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "spinach",
+      "cheese",
+      "tomato",
+      "eggs",
+      "sugar",
+      "bell pepper",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add spinach and cook for 3-5 minutes until browned.\n4. Stir in tomato and eggs, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797949/pexels-photo-15797949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Mediterranean Wrap",
+    "description": "A satisfying mediterranean dish perfect for any meal.",
+    "cookingTime": 66,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "vegan",
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "basil",
+      "cilantro",
+      "pasta",
+      "soy sauce",
+      "butter",
+      "broccoli",
+      "milk",
+      "spinach"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cilantro and sauté for 2 minutes until fragrant.\n3. Add basil and cook for 3-5 minutes until browned.\n4. Stir in pasta and soy sauce, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and spinach, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31710631/pexels-photo-31710631.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Thai Wrap",
+    "description": "A aromatic thai dish perfect for any meal.",
+    "cookingTime": 71,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "gluten-free",
+      "halal"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cinnamon",
+      "salmon",
+      "tofu",
+      "pasta",
+      "broccoli",
+      "coconut milk",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add cinnamon and cook for 3-5 minutes until browned.\n4. Stir in tofu and pasta, add 1/2 cup water or broth, reduce heat and simmer for 35 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2350516/pexels-photo-2350516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Greek Skewers",
+    "description": "A zesty greek dish perfect for any meal.",
+    "cookingTime": 52,
+    "cuisineType": "Greek",
+    "dietaryInfo": [
+      "vegan",
+      "vegetarian"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "rice",
+      "chili powder",
+      "cumin",
+      "coconut milk",
+      "mushrooms",
+      "sugar",
+      "eggs"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add rice and cook for 3-5 minutes until browned.\n4. Stir in cumin and coconut milk, add 1/2 cup water or broth, reduce heat and simmer for 26 minutes.\n5. Season with salt, pepper, and eggs, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/13983276/pexels-photo-13983276.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Japanese Rice Bowl",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 54,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "carrot",
+      "salmon",
+      "tomato",
+      "butter",
+      "broccoli",
+      "chili powder",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add carrot and cook for 3-5 minutes until browned.\n4. Stir in tomato and butter, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/47546/sushi-eat-japanese-asia-47546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Japanese Rice Bowl",
+    "description": "A tasty japanese dish perfect for any meal.",
+    "cookingTime": 54,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan",
+      "paleo"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "parsley",
+      "beef",
+      "cilantro",
+      "onion",
+      "tomato",
+      "olive oil",
+      "potato",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add beef and sauté for 2 minutes until fragrant.\n3. Add parsley and cook for 3-5 minutes until browned.\n4. Stir in cilantro and onion, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/47546/sushi-eat-japanese-asia-47546.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Chinese Curry",
+    "description": "A wholesome chinese dish perfect for any meal.",
+    "cookingTime": 32,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "kosher"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "avocado",
+      "rice",
+      "spinach",
+      "sugar",
+      "chili powder",
+      "parsley",
+      "bell pepper",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add rice and sauté for 2 minutes until fragrant.\n3. Add avocado and cook for 3-5 minutes until browned.\n4. Stir in spinach and sugar, add 1/2 cup water or broth, reduce heat and simmer for 16 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5409015/pexels-photo-5409015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Thai Skewers",
+    "description": "A satisfying thai dish perfect for any meal.",
+    "cookingTime": 67,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "gluten-free",
+      "vegetarian"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "milk",
+      "ginger",
+      "beef",
+      "tofu",
+      "sugar",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in beef and tofu, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/17634066/pexels-photo-17634066.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty American Wrap",
+    "description": "A flavorful american dish perfect for any meal.",
+    "cookingTime": 43,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "kosher",
+      "halal"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "tomato",
+      "broccoli",
+      "cinnamon",
+      "avocado",
+      "sugar",
+      "carrot",
+      "bell pepper",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in cinnamon and avocado, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5848076/pexels-photo-5848076.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich French Skewers",
+    "description": "A flavorful french dish perfect for any meal.",
+    "cookingTime": 27,
+    "cuisineType": "French",
+    "dietaryInfo": [
+      "vegan",
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "sugar",
+      "cheese",
+      "butter",
+      "chili powder",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cheese and sauté for 2 minutes until fragrant.\n3. Add sugar and cook for 3-5 minutes until browned.\n4. Stir in butter and chili powder, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/239575/pexels-photo-239575.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Thai Pasta",
+    "description": "A aromatic thai dish perfect for any meal.",
+    "cookingTime": 59,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "keto",
+      "paleo"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "coconut milk",
+      "flour",
+      "corn",
+      "lemon",
+      "basil",
+      "salmon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add flour and sauté for 2 minutes until fragrant.\n3. Add coconut milk and cook for 3-5 minutes until browned.\n4. Stir in corn and lemon, add 1/2 cup water or broth, reduce heat and simmer for 29 minutes.\n5. Season with salt, pepper, and salmon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/17320982/pexels-photo-17320982.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy American Skewers",
+    "description": "A delicious american dish perfect for any meal.",
+    "cookingTime": 55,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "yogurt",
+      "chili powder",
+      "corn",
+      "carrot",
+      "cumin",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add chili powder and sauté for 2 minutes until fragrant.\n3. Add yogurt and cook for 3-5 minutes until browned.\n4. Stir in corn and carrot, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/9469653/pexels-photo-9469653.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Japanese Pasta",
+    "description": "A flavorful japanese dish perfect for any meal.",
+    "cookingTime": 82,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "ginger",
+      "rice",
+      "cinnamon",
+      "lemon",
+      "flour"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add rice and sauté for 2 minutes until fragrant.\n3. Add ginger and cook for 3-5 minutes until browned.\n4. Stir in cinnamon and lemon, add 1/2 cup water or broth, reduce heat and simmer for 41 minutes.\n5. Season with salt, pepper, and flour, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Japanese Wrap",
+    "description": "A wholesome japanese dish perfect for any meal.",
+    "cookingTime": 75,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cinnamon",
+      "onion",
+      "mushrooms",
+      "milk",
+      "potato",
+      "chicken breast",
+      "cheese"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add onion and sauté for 2 minutes until fragrant.\n3. Add cinnamon and cook for 3-5 minutes until browned.\n4. Stir in mushrooms and milk, add 1/2 cup water or broth, reduce heat and simmer for 37 minutes.\n5. Season with salt, pepper, and cheese, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/30261972/pexels-photo-30261972.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Indian Soup",
+    "description": "A tasty indian dish perfect for any meal.",
+    "cookingTime": 43,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegan",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "milk",
+      "broccoli",
+      "potato",
+      "flour",
+      "basil",
+      "spinach"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add broccoli and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in potato and flour, add 1/2 cup water or broth, reduce heat and simmer for 21 minutes.\n5. Season with salt, pepper, and spinach, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8818732/pexels-photo-8818732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Indian Soup",
+    "description": "A aromatic indian dish perfect for any meal.",
+    "cookingTime": 54,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "keto",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "lemon",
+      "ginger",
+      "chili powder",
+      "tofu",
+      "basil",
+      "black beans",
+      "yogurt"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add ginger and sauté for 2 minutes until fragrant.\n3. Add lemon and cook for 3-5 minutes until browned.\n4. Stir in chili powder and tofu, add 1/2 cup water or broth, reduce heat and simmer for 27 minutes.\n5. Season with salt, pepper, and yogurt, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8818732/pexels-photo-8818732.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Thai Stir-Fry",
+    "description": "A mouthwatering thai dish perfect for any meal.",
+    "cookingTime": 26,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "keto"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "pasta",
+      "spinach",
+      "corn",
+      "butter",
+      "ginger",
+      "parsley",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add spinach and sauté for 2 minutes until fragrant.\n3. Add pasta and cook for 3-5 minutes until browned.\n4. Stir in corn and butter, add 1/2 cup water or broth, reduce heat and simmer for 13 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797949/pexels-photo-15797949.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Tangy Thai Salad",
+    "description": "A flavorful thai dish perfect for any meal.",
+    "cookingTime": 61,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "kosher",
+      "paleo"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "olive oil",
+      "salmon",
+      "avocado",
+      "broccoli",
+      "beef",
+      "spinach",
+      "ginger"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add salmon and sauté for 2 minutes until fragrant.\n3. Add olive oil and cook for 3-5 minutes until browned.\n4. Stir in avocado and broccoli, add 1/2 cup water or broth, reduce heat and simmer for 30 minutes.\n5. Season with salt, pepper, and ginger, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19856566/pexels-photo-19856566.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Thai Tacos",
+    "description": "A satisfying thai dish perfect for any meal.",
+    "cookingTime": 73,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "kosher",
+      "gluten-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "coconut milk",
+      "basil",
+      "corn",
+      "bell pepper",
+      "chicken breast",
+      "garlic",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add basil and sauté for 2 minutes until fragrant.\n3. Add coconut milk and cook for 3-5 minutes until browned.\n4. Stir in corn and bell pepper, add 1/2 cup water or broth, reduce heat and simmer for 36 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/18500867/pexels-photo-18500867.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Japanese Salad",
+    "description": "A mouthwatering japanese dish perfect for any meal.",
+    "cookingTime": 66,
+    "cuisineType": "Japanese",
+    "dietaryInfo": [
+      "vegetarian",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "cilantro",
+      "flour",
+      "ginger",
+      "salmon",
+      "cheese",
+      "basil"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add flour and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in ginger and salmon, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and basil, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31251593/pexels-photo-31251593.png?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Easy Chinese Pasta",
+    "description": "A delicious chinese dish perfect for any meal.",
+    "cookingTime": 60,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "paleo",
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "tofu",
+      "olive oil",
+      "milk",
+      "black beans",
+      "beef"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add tofu and cook for 3-5 minutes until browned.\n4. Stir in milk and black beans, add 1/2 cup water or broth, reduce heat and simmer for 30 minutes.\n5. Season with salt, pepper, and beef, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Mexican Curry",
+    "description": "A wholesome mexican dish perfect for any meal.",
+    "cookingTime": 66,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegetarian"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "tomato",
+      "potato",
+      "basil",
+      "black beans",
+      "beef",
+      "coconut milk",
+      "eggs"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add potato and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in basil and black beans, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and eggs, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5737361/pexels-photo-5737361.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Chinese Salad",
+    "description": "A hearty chinese dish perfect for any meal.",
+    "cookingTime": 57,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "keto",
+      "paleo"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "beef",
+      "cumin",
+      "olive oil",
+      "flour",
+      "mushrooms",
+      "sugar"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cumin and sauté for 2 minutes until fragrant.\n3. Add beef and cook for 3-5 minutes until browned.\n4. Stir in olive oil and flour, add 1/2 cup water or broth, reduce heat and simmer for 28 minutes.\n5. Season with salt, pepper, and sugar, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/31783383/pexels-photo-31783383.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Creamy Indian Tacos",
+    "description": "A aromatic indian dish perfect for any meal.",
+    "cookingTime": 66,
+    "cuisineType": "Indian",
+    "dietaryInfo": [
+      "vegan"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "tomato",
+      "yogurt",
+      "broccoli",
+      "potato",
+      "parsley",
+      "spinach"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add yogurt and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in broccoli and potato, add 1/2 cup water or broth, reduce heat and simmer for 33 minutes.\n5. Season with salt, pepper, and spinach, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/19781594/pexels-photo-19781594.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Mexican Stir-Fry",
+    "description": "A flavorful mexican dish perfect for any meal.",
+    "cookingTime": 41,
+    "cuisineType": "Mexican",
+    "dietaryInfo": [
+      "vegetarian",
+      "gluten-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "milk",
+      "cumin",
+      "chili powder",
+      "eggs",
+      "spinach",
+      "butter",
+      "parsley"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add cumin and sauté for 2 minutes until fragrant.\n3. Add milk and cook for 3-5 minutes until browned.\n4. Stir in chili powder and eggs, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and parsley, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/7603327/pexels-photo-7603327.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Hearty Italian Wrap",
+    "description": "A zesty italian dish perfect for any meal.",
+    "cookingTime": 24,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "cumin",
+      "olive oil",
+      "cheese",
+      "parsley",
+      "basil"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add cumin and cook for 3-5 minutes until browned.\n4. Stir in cheese and parsley, add 1/2 cup water or broth, reduce heat and simmer for 12 minutes.\n5. Season with salt, pepper, and basil, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/6287472/pexels-photo-6287472.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Rich Thai Tacos",
+    "description": "A hearty thai dish perfect for any meal.",
+    "cookingTime": 79,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Beginner",
+    "ingredients": [
+      "beef",
+      "olive oil",
+      "soy sauce",
+      "milk",
+      "onion"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add beef and cook for 3-5 minutes until browned.\n4. Stir in soy sauce and milk, add 1/2 cup water or broth, reduce heat and simmer for 39 minutes.\n5. Season with salt, pepper, and onion, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/15797950/pexels-photo-15797950.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Savory Italian Rice Bowl",
+    "description": "A irresistible italian dish perfect for any meal.",
+    "cookingTime": 90,
+    "cuisineType": "Italian",
+    "dietaryInfo": [
+      "gluten-free",
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cinnamon",
+      "butter",
+      "ginger",
+      "salmon",
+      "cilantro"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add butter and sauté for 2 minutes until fragrant.\n3. Add cinnamon and cook for 3-5 minutes until browned.\n4. Stir in ginger and salmon, add 1/2 cup water or broth, reduce heat and simmer for 45 minutes.\n5. Season with salt, pepper, and cilantro, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/7474110/pexels-photo-7474110.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty Chinese Curry",
+    "description": "A mouthwatering chinese dish perfect for any meal.",
+    "cookingTime": 78,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "gluten-free",
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "cilantro",
+      "potato",
+      "pasta",
+      "chicken breast",
+      "salmon"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add potato and sauté for 2 minutes until fragrant.\n3. Add cilantro and cook for 3-5 minutes until browned.\n4. Stir in pasta and chicken breast, add 1/2 cup water or broth, reduce heat and simmer for 39 minutes.\n5. Season with salt, pepper, and salmon, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/5409015/pexels-photo-5409015.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Spicy Thai Wrap",
+    "description": "A aromatic thai dish perfect for any meal.",
+    "cookingTime": 87,
+    "cuisineType": "Thai",
+    "dietaryInfo": [
+      "halal"
+    ],
+    "skillLevel": "Advanced",
+    "ingredients": [
+      "tomato",
+      "olive oil",
+      "basil",
+      "cinnamon",
+      "flour",
+      "pasta"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add olive oil and sauté for 2 minutes until fragrant.\n3. Add tomato and cook for 3-5 minutes until browned.\n4. Stir in basil and cinnamon, add 1/2 cup water or broth, reduce heat and simmer for 43 minutes.\n5. Season with salt, pepper, and pasta, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/2350516/pexels-photo-2350516.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Zesty American Rice Bowl",
+    "description": "A irresistible american dish perfect for any meal.",
+    "cookingTime": 31,
+    "cuisineType": "American",
+    "dietaryInfo": [
+      "keto",
+      "kosher"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "garlic",
+      "bell pepper",
+      "potato",
+      "ginger",
+      "cumin"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add bell pepper and sauté for 2 minutes until fragrant.\n3. Add garlic and cook for 3-5 minutes until browned.\n4. Stir in potato and ginger, add 1/2 cup water or broth, reduce heat and simmer for 15 minutes.\n5. Season with salt, pepper, and cumin, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8725224/pexels-photo-8725224.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Quick Chinese Skewers",
+    "description": "A flavorful chinese dish perfect for any meal.",
+    "cookingTime": 73,
+    "cuisineType": "Chinese",
+    "dietaryInfo": [
+      "kosher",
+      "vegetarian"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "cheese",
+      "flour",
+      "soy sauce",
+      "tofu",
+      "tomato",
+      "corn"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add flour and sauté for 2 minutes until fragrant.\n3. Add cheese and cook for 3-5 minutes until browned.\n4. Stir in soy sauce and tofu, add 1/2 cup water or broth, reduce heat and simmer for 36 minutes.\n5. Season with salt, pepper, and corn, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/8108148/pexels-photo-8108148.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  },
+  {
+    "name": "Classic Mediterranean Soup",
+    "description": "A delicious mediterranean dish perfect for any meal.",
+    "cookingTime": 41,
+    "cuisineType": "Mediterranean",
+    "dietaryInfo": [
+      "dairy-free"
+    ],
+    "skillLevel": "Intermediate",
+    "ingredients": [
+      "butter",
+      "sugar",
+      "onion",
+      "carrot",
+      "rice",
+      "flour",
+      "tomato",
+      "milk"
+    ],
+    "instructions": "1. Heat 1 tbsp of olive oil in a pan over medium heat.\n2. Add sugar and sauté for 2 minutes until fragrant.\n3. Add butter and cook for 3-5 minutes until browned.\n4. Stir in onion and carrot, add 1/2 cup water or broth, reduce heat and simmer for 20 minutes.\n5. Season with salt, pepper, and milk, then serve hot.",
+    "imageUrl": "https://images.pexels.com/photos/12675815/pexels-photo-12675815.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+  }
+]
