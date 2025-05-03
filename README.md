@@ -10,7 +10,7 @@ This project focuses on backend development, ensuring a scalable, efficient, and
 **Database-Driven Recipe Storage** – Recipes and ingredients are stored and managed in a structured database.  
  **User Authentication (Optional)** – Users can **register, login, and save** their favorite recipes.  
  **Recipe Ranking Algorithm** – The system ranks recipes based on **matching percentage and missing ingredients**.  
- **Third-Party API Integration** – (Optional) Uses **Spoonacular API** or **Edamam API** for extended recipe options.  
+ **Third-Party API Integration** – (Optional) Uses third-party APIs for extended recipe options.  
  **Fast & Scalable API** – Built with **Node.js & Express.js**, supporting **RESTful architecture**.  
  **Secure Input Validation** – Prevents incorrect inputs and ensures **data consistency**.
 
