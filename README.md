@@ -78,7 +78,7 @@ cd SmartChef
 # 2. Backend setup
 cd backend
 npm install
-cp .env.example .env
+New-Item .env -ItemType File
 # Edit `.env` with your MongoDB URI, session secret, and OLLAMA_MODEL
 
 # 3. Frontend setup
