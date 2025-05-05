@@ -5,7 +5,6 @@ import { Recipe } from '../types';
 import RecipeDisplay from './RecipeDisplay';
 
 const RecipeDetail: React.FC = () => {
-  // the :name param comes in decoded, e.g. "Zesty Indian Skewers"
   const { name } = useParams<{ name: string }>();
   const [recipe, setRecipe] = useState<Recipe | null>(null);
   const [loading, setLoading] = useState(true);

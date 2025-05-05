@@ -20,7 +20,7 @@ export interface DietaryPreference {
 }
 
 export interface Recipe {
-  _id?: string;           // optional to match static JSON
+  _id?: string;           
   name: string;
   description?: string;
   cookingTime?: number;

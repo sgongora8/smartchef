@@ -1,4 +1,3 @@
-// frontend/src/components/Recipes.tsx
 import React, { useEffect, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { Recipe } from '../types';

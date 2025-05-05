@@ -1,4 +1,3 @@
-// frontend/src/App.tsx
 import { useRef, useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
 
