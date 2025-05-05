@@ -1,9 +1,11 @@
+// backend/app.js
 const express = require('express');
 const mongoose = require('mongoose');
 const dotenv = require('dotenv');
 const cors = require('cors');
 const passport = require('passport');
 const session = require('express-session');
+const path = require('path');
 
 dotenv.config();
 require('./config/passport');
@@ -33,13 +35,10 @@ app.use(session({
   saveUninitialized: false,
   cookie: {
     maxAge: 24 * 60 * 60 * 1000,
-    secure: false,            
-    sameSite: 'lax',          
+    secure: false,
+    sameSite: 'lax',
   }
 }));
-
-
-
 
 app.use(passport.initialize());
 app.use(passport.session());
@@ -49,13 +48,12 @@ mongoose
   .then(() => console.log('MongoDB connected'))
   .catch((err) => console.error('MongoDB error:', err));
 
-
+// Mount routes
 app.use('/api/auth',      require('./Routes/authRoutes'));
 app.use('/api/users',     require('./Routes/userRoutes'));
 app.use('/api/recipes',   require('./Routes/recipeRoutes'));
 app.use('/api/nutrition', require('./Routes/nutritionRoutes'));
 app.use('/api/ai',        require('./Routes/aiRoutes'));
-
 
 app.listen(PORT, () => {
   console.log(`Server running at http://localhost:${PORT}`);

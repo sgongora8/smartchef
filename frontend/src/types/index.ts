@@ -1,4 +1,4 @@
-//define types for recipe data and form inputs
+// frontend/src/types/index.ts
 
 export type CookingLevel = 'easy' | 'intermediate' | 'hard';
 
@@ -20,7 +20,7 @@ export interface DietaryPreference {
 }
 
 export interface Recipe {
-  _id: string;
+  _id?: string;           // optional to match static JSON
   name: string;
   description?: string;
   cookingTime?: number;
@@ -28,11 +28,9 @@ export interface Recipe {
   dietaryInfo?: string[];
   skillLevel?: string;
   ingredients: string[];
-  imageUrl?: string; 
-  instructions?: string; 
+  imageUrl?: string;
+  instructions?: string;
 }
-
-
 
 export interface RecipeFormData {
   dietaryPreferences: DietaryPreference[];

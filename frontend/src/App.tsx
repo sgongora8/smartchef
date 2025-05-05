@@ -1,15 +1,22 @@
-import {useRef, useState } from 'react';
+// frontend/src/App.tsx
+import { useRef, useState } from 'react';
 import { Routes, Route } from 'react-router-dom';
+
 import Header from './components/Header';
 import Hero from './components/Hero';
-import Footer from './components/Footer';
-import SignIn from './components/SignIn';
+import HowItWorks from './components/HowItWorks';
+import Recipes from './components/Recipes';
+import RecipeDetail from './components/RecipeDetail';
+import SavedRecipes from './components/SavedRecipes';
+import About from './components/About';
 import Blog from './components/Blog';
 import CookingTips from './components/CookingTips';
 import IngredientsGuide from './components/IngredientsGuide';
+import SignIn from './components/SignIn';
 import SmartSearch from './components/SmartSearch';
-import SavedRecipes from './components/SavedRecipes';
 import RecipeDisplay from './components/RecipeDisplay';
+import Footer from './components/Footer';
+
 import { Recipe } from './types';
 
 function App() {
@@ -29,35 +36,38 @@ function App() {
 
       <main className="flex-1">
         <Routes>
+          {/* Home */}
           <Route
             path="/"
             element={
               <>
                 <Hero onScrollToSearch={() => {
-                  document.getElementById("recipe-form")?.scrollIntoView({ behavior: 'smooth' });
-                  }} />
-
-
-                <div className="container mx-auto px-4 py-12">
-                  <div className="max-w-4xl mx-auto">
-                    <SmartSearch onSelectRecipe={handleRecipeSelect} />
-                  </div>
+                  document.getElementById('recipe-form')?.scrollIntoView({ behavior: 'smooth' });
+                }} />
+                <HowItWorks />
+                <div className="container mx-auto px-4 py-12" id="recipe-form">
+                  <SmartSearch onSelectRecipe={handleRecipeSelect} />
                 </div>
-
                 {selectedRecipe && (
                   <div ref={resultRef} className="container mx-auto px-4 pb-16">
-                    <div className="max-w-3xl mx-auto">
-                      <h2 className="text-3xl font-bold text-center mb-8 text-gray-800">
-                        Your Selected Recipe
-                      </h2>
-                      <RecipeDisplay recipe={selectedRecipe} />
-                    </div>
+                    <RecipeDisplay recipe={selectedRecipe} />
                   </div>
                 )}
               </>
             }
           />
+
+          {/* All preset recipes */}
+          <Route path="/recipes" element={<Recipes />} />
+
+          {/* Detail view */}
+          <Route path="/recipes/:name" element={<RecipeDetail />} />
+
+          {/* User-saved */}
           <Route path="/saved-recipes" element={<SavedRecipes />} />
+
+          {/* About & others */}
+          <Route path="/about" element={<About />} />
           <Route path="/blog" element={<Blog />} />
           <Route path="/cooking-tips" element={<CookingTips />} />
           <Route path="/ingredients-guide" element={<IngredientsGuide />} />

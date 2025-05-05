@@ -71,7 +71,6 @@ const SavedRecipes: React.FC = () => {
         {recipes.map(recipe => {
           const isExpanded = expandedIds.has(recipe._id);
 
-          // Prepare cleaned instruction steps (strip leading numbers)
           const rawSteps: string[] = Array.isArray(recipe.instructions)
             ? recipe.instructions
             : (recipe.instructions || '').split('\n').filter(s => s.trim());
