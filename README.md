@@ -1,86 +1,99 @@
-#  SmartChef
+# 🍽️ SmartChef
 
-##  Overview
-SmartChef is a web-based application that allows users to enter a list of available ingredients and receive matching recipes. The system is designed to provide **accurate, fast, and personalized** recipe recommendations while integrating **third-party APIs** for enhanced functionality. 
+## Overview
 
-This project focuses on backend development, ensuring a scalable, efficient, and well-documented API for recipe retrieval. The front end will serve as a minimal interface to interact with the backend.
+**SmartChef** is a full-stack, AI-powered recipe web application that helps users discover personalized meal ideas based on available ingredients. Built with React, Node.js, and MongoDB, it combines third-party APIs with locally hosted LLMs (via Ollama) to deliver fast, intelligent recommendations.
 
-## Features
-
-- **Personalized AI Search**  
-  Enter your available ingredients and preferences—our Ollama‑powered AI instantly generates recipe ideas tailored to your tastes and skill level.
-
-- **Ingredient‑Based Search & Ranking**  
-  Users supply a list of ingredients and the system returns best‑matching recipes, ranked by match percentage and missing items.
-
-- **All Recipes Browser**  
-  Browse our curated library of preset recipes, complete with cooking time, ingredient lists, images, and cuisine tags.
-
-- **Recipe Detail View**  
-  Click any recipe to see step‑by‑step instructions, full ingredient breakdown, nutritional info, and images.
-
-- **Saved Recipes & User Accounts**  
-  Register or sign in with Google OAuth to bookmark favorites, manage your personal collection, and access them anywhere.
-
-- **Third‑Party API Integration**  
-  Optional integrations with USDA for nutrition data and Pexels for high‑quality imagery.
-
-- **Fast & Scalable API**  
-  Built on Node.js & Express with a MongoDB backend, our RESTful API delivers sub‑second responses and can handle heavy load.
-
-- **Secure Input Validation**  
-  All user inputs are validated and sanitized to ensure data consistency and protect against malicious requests.
-
-- **Content Sections**  
-  Explore our Blog, Cooking Tips, and Ingredients Guide for cooking inspiration and expert advice.
-
-- **Responsive UI**  
-  A polished interface built with React and Tailwind CSS, optimized for seamless use on any device.
-
+While currently deployed for local development, SmartChef is architected for scalability and public deployment. The frontend offers an intuitive interface, while the backend handles recipe matching, user data, and secure API communication.
 
 ---
 
-## Tech Stack
+## 🔑 Features
 
-- **Frontend**  
-  - React 
-  - React Router  
-  - Tailwind CSS  
-  - Vite  
+- **🔍 Personalized AI Search**  
+  Generate unique recipe ideas using Ollama-powered large language models based on user ingredients, preferences, and dietary needs.
 
-- **Backend**  
-  - [Node.js](https://nodejs.org/) & [Express](https://expressjs.com/)  
-  - [MongoDB](https://www.mongodb.com/) (for user data and saved recipes)  
-  - [Ollama](https://ollama.com/) (local AI model hosting)  
+- **🧮 Ingredient-Based Search & Ranking**  
+  Input a list of ingredients and receive recipes ranked by match percentage and missing items.
 
-- **Authentication & APIs**  
-  - Google OAuth (via Passport.js)  
-  - Optional integrations: USDA API, Pexels API  
+- **📚 All Recipes Browser**  
+  View a curated recipe library with metadata like cooking time, tags, nutrition, and photos.
+
+- **📖 Recipe Detail View**  
+  Click into recipes to see step-by-step instructions, nutrition info, and detailed breakdowns.
+
+- **🔐 Google OAuth Authentication**  
+  Sign in using Google to save favorite recipes and personalize your cooking dashboard.
+
+- **🧠 LLM Integration (Ollama)**  
+  Local LLMs power smart recommendations and contextual interactions — no external API dependency.
+
+- **📦 Scalable REST API**  
+  Built on Express + MongoDB, optimized for fast queries and extensible endpoints.
+
+- **🧼 Secure Input Handling**  
+  Full input validation and sanitation to prevent malformed data and ensure user safety.
+
+- **🌐 Responsive UI**  
+  Clean React + Tailwind CSS design for seamless experience across devices.
+
+- **🧪 Developer-Focused Architecture**  
+  Modular file structure, clear API routes, and self-documented code for easy expansion.
 
 ---
 
-## Getting Started
+## 🛠️ Tech Stack
+
+### Frontend
+- React (with React Router)
+- Tailwind CSS
+- Vite
+
+### Backend
+- Node.js + Express.js
+- MongoDB (Mongoose ODM)
+- Ollama (Local LLM hosting)
+
+### Auth & APIs
+- Google OAuth via Passport.js
+- USDA API (Nutrition data)
+- Pexels API (Recipe imagery)
+
+---
+## 👥 Credits & Contribution
+
+This project was originally created as a team project and later forked and enhanced by Steven Gongora.
+
+Frontend development, authentication flow, AI integration, and UI design by Steven Gongora
+
+Original architecture and base logic from team repository: sarinjet1008/recipe-retrieval-system
+
+---
+
+## 🚀 Getting Started
 
 ### Prerequisites
 
-- Git  
-- Node.js v16+ & npm  
-- MongoDB (Atlas or local install)  
-- Ollama (install mistral model)  
+- Git
+- Node.js v16+ and npm
+- MongoDB (local or Atlas cloud)
+- Ollama installed with Mistral model
 
-### Installation
+### Setup Instructions
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/yourusername/SmartChef.git
-cd SmartChef
+git clone https://github.com/yourusername/smartchef.git
+cd smartchef
 
 # 2. Backend setup
 cd backend
 npm install
-New-Item .env -ItemType File
-# Edit `.env` with your MongoDB URI, session secret, and OLLAMA_MODEL
+# Create .env file
+touch .env  # or use New-Item on PowerShell
+# Add your MONGODB_URI, SESSION_SECRET, and OLLAMA_MODEL to .env
 
 # 3. Frontend setup
 cd ../frontend
 npm install
+npm run dev
